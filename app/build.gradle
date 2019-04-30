@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion cVersion
+    defaultConfig {
+        applicationId "cn.jestar.xenoblade"
+        minSdkVersion mVersion
+        targetSdkVersion cVersion
+        versionCode vCode
+        versionName vName
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation lib.appcompat
+    implementation lib.design
+    implementation lib.constraint
+    implementation lib.gson
+    implementation lib.recycler
+    implementation lib.bqah
+    implementation lib.cardview
+    implementation lib.livedata
+    annotationProcessor lib.livedataCompiler
+    testImplementation lib.junit
+}

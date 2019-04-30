@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/action_search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/blade"
+        android:title="@string/blade"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/map_skill"
+        android:title="@string/map_skill"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/love_item"
+        android:title="@string/love_item"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/super_skill"
+        android:title="@string/super_skill"
+        app:showAsAction="never" />
+</menu>

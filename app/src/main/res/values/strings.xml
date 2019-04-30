@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">异度之刃2</string>
+    <string name="action_search">搜索</string>
+    <string name="blade">异刃</string>
+    <string name="map_skill">场景技能</string>
+    <string name="love_item">喜好物品</string>
+    <string name="super_skill">必杀技</string>
+
+</resources>

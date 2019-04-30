@@ -1,0 +1,1706 @@
+[
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "商会",
+    "name": "花俏螺栓"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "商会",
+    "name": "深灰弹簧"
+  },
+  {
+    "level": 2,
+    "type": "零件",
+    "location": "商会",
+    "name": "绯红齿轮"
+  },
+  {
+    "level": 3,
+    "type": "零件",
+    "location": "古拉",
+    "name": "螺旋管"
+  },
+  {
+    "level": 2,
+    "type": "零件",
+    "location": "古拉",
+    "name": "丛林框架"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "古拉",
+    "name": "白雪垫圈"
+  },
+  {
+    "level": 2,
+    "type": "零件",
+    "location": "古拉",
+    "name": "绕线齿轮"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "古拉",
+    "name": "心型螺丝"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "斯佩比亚",
+    "name": "黑铁螺母"
+  },
+  {
+    "level": 2,
+    "type": "零件",
+    "location": "斯佩比亚",
+    "name": "奇巧圆盘"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "斯佩比亚",
+    "name": "蛇状接头"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "斯佩比亚",
+    "name": "兔极管"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "时钟弹珠"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "螺旋板"
+  },
+  {
+    "level": 2,
+    "type": "零件",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "暗煤齿轮"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "棱镜管"
+  },
+  {
+    "level": 2,
+    "type": "零件",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "童话齿形带"
+  },
+  {
+    "level": 3,
+    "type": "零件",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "天使引擎"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "檀佩兰提亚",
+    "name": "彩绘管"
+  },
+  {
+    "level": 3,
+    "type": "零件",
+    "location": "檀佩兰提亚",
+    "name": "昆虫晶片"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "檀佩兰提亚",
+    "name": "葡萄紫萁"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "莫尔斯之地断崖",
+    "name": "机械勺"
+  },
+  {
+    "level": 3,
+    "type": "零件",
+    "location": "莫尔斯之地断崖",
+    "name": "发电涡轮"
+  },
+  {
+    "level": 2,
+    "type": "零件",
+    "location": "莫尔斯之地断崖",
+    "name": "智能齿轮"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "世界树",
+    "name": "叶子线圈"
+  },
+  {
+    "level": 2,
+    "type": "零件",
+    "location": "世界树",
+    "name": "虚空提灯"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "世界树",
+    "name": "发条线圈"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "商会",
+    "name": "流行温度计"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "古拉",
+    "name": "蚂蚱弹簧"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "纯白罩板"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "檀佩兰提亚",
+    "name": "摩登蓝齿轮"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "莫尔斯之地断崖",
+    "name": "尾巴天线"
+  },
+  {
+    "level": 2,
+    "type": "零件",
+    "location": "世界树",
+    "name": "艺术核线圈"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "阿卡狄亚教廷",
+    "name": "绿色二极管"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "阿卡狄亚教廷",
+    "name": "飞鸟晶片"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "阿卡狄亚教廷",
+    "name": "警报螺母"
+  },
+  {
+    "level": 2,
+    "type": "零件",
+    "location": "阿卡狄亚教廷",
+    "name": "白雪晶体管"
+  },
+  {
+    "level": 1,
+    "type": "零件",
+    "location": "第一轨道站",
+    "name": "现代电阻"
+  },
+  {
+    "level": 3,
+    "type": "零件",
+    "location": "第一轨道站",
+    "name": "涡流板"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "古拉",
+    "name": "拼图木"
+  },
+  {
+    "level": 3,
+    "type": "森林",
+    "location": "古拉",
+    "name": "肌肉树枝"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "古拉",
+    "name": "醋叶子"
+  },
+  {
+    "level": 2,
+    "type": "森林",
+    "location": "古拉",
+    "name": "识路苔"
+  },
+  {
+    "level": 2,
+    "type": "森林",
+    "location": "古拉",
+    "name": "迷路藤"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "英维迪亚烈王国",
+    "name": "苔藓绒棉"
+  },
+  {
+    "level": 2,
+    "type": "森林",
+    "location": "英维迪亚烈王国",
+    "name": "闪亮树叶"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "英维迪亚烈王国",
+    "name": "思念树"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "斯佩比亚帝国",
+    "name": "欢迎仙人掌"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "斯佩比亚帝国",
+    "name": "祝福木炭"
+  },
+  {
+    "level": 3,
+    "type": "森林",
+    "location": "斯佩比亚帝国",
+    "name": "琥珀叶子"
+  },
+  {
+    "level": 2,
+    "type": "森林",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "激扬木"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "烟雾木"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "羽毛叶子"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "檀佩兰提亚",
+    "name": "幽灵树"
+  },
+  {
+    "level": 3,
+    "type": "森林",
+    "location": "檀佩兰提亚",
+    "name": "雷电根茎"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "檀佩兰提亚",
+    "name": "疯狂苔藓"
+  },
+  {
+    "level": 3,
+    "type": "森林",
+    "location": "洛修利亚王国",
+    "name": "风铃藤"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "洛修利亚王国",
+    "name": "忧郁叶子"
+  },
+  {
+    "level": 2,
+    "type": "森林",
+    "location": "洛修利亚王国",
+    "name": "石膏树"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "莫尔斯之地断崖",
+    "name": "大松果"
+  },
+  {
+    "level": 3,
+    "type": "森林",
+    "location": "莫尔斯之地断崖",
+    "name": "钢丝树"
+  },
+  {
+    "level": 2,
+    "type": "森林",
+    "location": "莫尔斯之地",
+    "name": "诅咒树枝"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "世界树",
+    "name": "弹射树"
+  },
+  {
+    "level": 3,
+    "type": "森林",
+    "location": "世界树",
+    "name": "世界杉"
+  },
+  {
+    "level": 2,
+    "type": "森林",
+    "location": "世界树",
+    "name": "八果木叶子"
+  },
+  {
+    "level": 3,
+    "type": "森林",
+    "location": "第一轨道站",
+    "name": "无梦果实"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "第一轨道站",
+    "name": "零点树皮"
+  },
+  {
+    "level": 2,
+    "type": "森林",
+    "location": "檀佩兰提亚",
+    "name": "磨蹭草"
+  },
+  {
+    "level": 3,
+    "type": "森林",
+    "location": "斯佩比亚帝国",
+    "name": "恋爱树莓"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "洛修利亚王国",
+    "name": "藤粟"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "古拉",
+    "name": "亲爱书"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "英维迪亚烈王国",
+    "name": "针刺种子"
+  },
+  {
+    "level": 3,
+    "type": "森林",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "隐蔽偃松"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "洛修利亚王国",
+    "name": "扫帚冰柱"
+  },
+  {
+    "level": 2,
+    "type": "森林",
+    "location": "莫尔斯之地断崖",
+    "name": "油腻枝叶"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "莫尔斯之地",
+    "name": "冰霜树"
+  },
+  {
+    "level": 1,
+    "type": "森林",
+    "location": "世界树",
+    "name": "机械树枝"
+  },
+  {
+    "level": 2,
+    "type": "森林",
+    "location": "第一轨道站",
+    "name": "化合木的碎片"
+  },
+  {
+    "level": 2,
+    "type": "森林",
+    "location": "斯佩比亚帝国",
+    "name": "木炭熏腿"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "古拉",
+    "name": "森林石"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "古拉",
+    "name": "骰子石头"
+  },
+  {
+    "level": 3,
+    "type": "矿石",
+    "location": "古拉",
+    "name": "困境石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "英维迪亚烈王国",
+    "name": "三色岩石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "英维迪亚烈王国",
+    "name": "泡泡珊瑚"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "英维迪亚烈王国",
+    "name": "千层岩"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "英维迪亚烈王国",
+    "name": "黑葡萄石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "斯佩比亚帝国",
+    "name": "芳香石"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "斯佩比亚帝国",
+    "name": "硝酸岩"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "斯佩比亚帝国",
+    "name": "草饼砂"
+  },
+  {
+    "level": 3,
+    "type": "矿石",
+    "location": "斯佩比亚帝国",
+    "name": "立方金刚石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "斯佩比亚帝国",
+    "name": "黑色灰尘"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "力奇亚电岩"
+  },
+  {
+    "level": 3,
+    "type": "矿石",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "边纹蓝宝石"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "艾尔皮斯灵洞",
+    "name": "深渊魔石"
+  },
+  {
+    "level": 3,
+    "type": "矿石",
+    "location": "艾尔皮斯灵洞",
+    "name": "阿德尔之泪"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "艾尔皮斯灵洞",
+    "name": "秤砣石"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "艾尔皮斯灵洞",
+    "name": "冰晶蓝宝石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "艾尔皮斯灵洞",
+    "name": "彩虹结晶"
+  },
+  {
+    "level": 3,
+    "type": "矿石",
+    "location": "檀佩兰提亚",
+    "name": "纯暗石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "檀佩兰提亚",
+    "name": "升龙岩"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "檀佩兰提亚",
+    "name": "波纹石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "洛修利亚王国",
+    "name": "豹纹石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "洛修利亚王国",
+    "name": "浪纹石"
+  },
+  {
+    "level": 3,
+    "type": "矿石",
+    "location": "洛修利亚王国",
+    "name": "冰柱海蓝石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "洛修利亚王国",
+    "name": "重力石"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "莫尔斯之地断崖",
+    "name": "磨爪石"
+  },
+  {
+    "level": 3,
+    "type": "矿石",
+    "location": "莫尔斯之地断崖",
+    "name": "磁力粘土"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "莫尔斯之地",
+    "name": "熔岩孔雀石"
+  },
+  {
+    "level": 3,
+    "type": "矿石",
+    "location": "莫尔斯之地",
+    "name": "白金电气石"
+  },
+  {
+    "level": 3,
+    "type": "矿石",
+    "location": "世界树",
+    "name": "软烂石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "世界树",
+    "name": "手里剑岩"
+  },
+  {
+    "level": 3,
+    "type": "矿石",
+    "location": "英维迪亚烈王国",
+    "name": "龙尽香"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "英维迪亚烈王国",
+    "name": "盐咸土"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "英维迪亚烈王国",
+    "name": "莫格莫格石"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "斯佩比亚帝国",
+    "name": "枫叶碎石"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "柠檬石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "艾尔皮斯灵洞",
+    "name": "噪声石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "檀佩兰提亚",
+    "name": "绯红星砂"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "洛修利亚王国",
+    "name": "白雪燕雀石"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "洛修利亚王国",
+    "name": "甲壳岩板"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "莫尔斯之地断崖",
+    "name": "羊毛岩石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "莫尔斯之地",
+    "name": "瓦砾宝石"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "莫尔斯之地",
+    "name": "炭立方体"
+  },
+  {
+    "level": 1,
+    "type": "矿石",
+    "location": "莫尔斯之地",
+    "name": "深渊金属"
+  },
+  {
+    "level": 2,
+    "type": "矿石",
+    "location": "世界树",
+    "name": "苔藓平台"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "商会",
+    "name": "锚尾鱼"
+  },
+  {
+    "level": 2,
+    "type": "鱼类",
+    "location": "商会",
+    "name": "油牡蛎"
+  },
+  {
+    "level": 2,
+    "type": "鱼类",
+    "location": "古拉",
+    "name": "金刚岩鱼"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "古拉",
+    "name": "树木蟹"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "古拉",
+    "name": "薄荷鱼"
+  },
+  {
+    "level": 2,
+    "type": "鱼类",
+    "location": "英维迪亚烈王国",
+    "name": "蔚蓝鳗鱼"
+  },
+  {
+    "level": 2,
+    "type": "鱼类",
+    "location": "英维迪亚烈王国",
+    "name": "大佬金枪鱼"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "英维迪亚烈王国",
+    "name": "婚礼蓝鳃太阳鱼"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "英维迪亚烈王国",
+    "name": "珍珠龙虾"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "英维迪亚烈王国",
+    "name": "二足蟹"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "英维迪亚烈王国",
+    "name": "七色海参"
+  },
+  {
+    "level": 2,
+    "type": "鱼类",
+    "location": "斯佩比亚帝国",
+    "name": "跳高鲽鱼"
+  },
+  {
+    "level": 3,
+    "type": "鱼类",
+    "location": "斯佩比亚帝国",
+    "name": "柔护鲨"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "斯佩比亚帝国",
+    "name": "懒惰小龙虾"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "斯佩比亚帝国",
+    "name": "沙鲑"
+  },
+  {
+    "level": 2,
+    "type": "鱼类",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "独刺鱼"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "拍水虾"
+  },
+  {
+    "level": 3,
+    "type": "鱼类",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "蜜青将鱼"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "艾尔皮斯灵洞",
+    "name": "独角骨舌鱼"
+  },
+  {
+    "level": 2,
+    "type": "鱼类",
+    "location": "艾尔皮斯灵洞",
+    "name": "吊灯安康鱼"
+  },
+  {
+    "level": 2,
+    "type": "鱼类",
+    "location": "檀佩兰提亚",
+    "name": "淤泥石鱼"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "檀佩兰提亚",
+    "name": "毒鱼篓"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "檀佩兰提亚",
+    "name": "迷幻鲶鱼"
+  },
+  {
+    "level": 3,
+    "type": "鱼类",
+    "location": "洛修利亚王国",
+    "name": "深渊碟鲨"
+  },
+  {
+    "level": 2,
+    "type": "鱼类",
+    "location": "莫尔斯之地断崖",
+    "name": "夜光鱼"
+  },
+  {
+    "level": 3,
+    "type": "鱼类",
+    "location": "莫尔斯之地断崖",
+    "name": "芭蕉鲣鱼"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "世界树",
+    "name": "麻痹小丑鱼"
+  },
+  {
+    "level": 2,
+    "type": "鱼类",
+    "location": "世界树",
+    "name": "空无石"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "奇异蛋"
+  },
+  {
+    "level": 3,
+    "type": "鱼类",
+    "location": "古拉",
+    "name": "软软海参"
+  },
+  {
+    "level": 3,
+    "type": "鱼类",
+    "location": "商会",
+    "name": "阿伐利缇亚安康鱼"
+  },
+  {
+    "level": 3,
+    "type": "鱼类",
+    "location": "英维迪亚烈王国",
+    "name": "蛤蟆鲸大头鳕"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "深蓝流线鱼"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "海洋茶鱼"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "艾尔皮斯灵洞",
+    "name": "明暗鳟鱼"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "洛修利亚王国",
+    "name": "晨雾贝"
+  },
+  {
+    "level": 1,
+    "type": "鱼类",
+    "location": "莫尔斯之地断崖",
+    "name": "罪恶虾虎鱼"
+  },
+  {
+    "level": 2,
+    "type": "鱼类",
+    "location": "莫尔斯之地断崖",
+    "name": "驹蟹"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "商会",
+    "name": "条纹瓢虫"
+  },
+  {
+    "level": 3,
+    "type": "昆虫",
+    "location": "商会",
+    "name": "六角蜉蝣"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "古拉",
+    "name": "装甲蚰蜓"
+  },
+  {
+    "level": 3,
+    "type": "昆虫",
+    "location": "古拉",
+    "name": "长腿铲形虫"
+  },
+  {
+    "level": 2,
+    "type": "昆虫",
+    "location": "古拉",
+    "name": "黑玉蛇"
+  },
+  {
+    "level": 2,
+    "type": "昆虫",
+    "location": "英维迪亚烈王国",
+    "name": "鲨鱼壁虎"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "英维迪亚烈王国",
+    "name": "青桐镰刀虫"
+  },
+  {
+    "level": 3,
+    "type": "昆虫",
+    "location": "英维迪亚烈王国",
+    "name": "彩虹田龟"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "斯佩比亚帝国",
+    "name": "鬼面蟋蟀"
+  },
+  {
+    "level": 2,
+    "type": "昆虫",
+    "location": "斯佩比亚帝国",
+    "name": "团扇沙虎"
+  },
+  {
+    "level": 3,
+    "type": "昆虫",
+    "location": "斯佩比亚帝国",
+    "name": "巨角独角仙"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "斯佩比亚帝国",
+    "name": "青空椿象"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "斯佩比亚帝国",
+    "name": "苏木铜花金龟"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "挖洞砂虫"
+  },
+  {
+    "level": 2,
+    "type": "昆虫",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "神秘萤火虫"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "艾尔皮斯灵洞",
+    "name": "魔光虫"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "艾尔皮斯灵洞",
+    "name": "喷壶蜘蛛"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "檀佩兰提亚",
+    "name": "铁钳武功"
+  },
+  {
+    "level": 3,
+    "type": "昆虫",
+    "location": "檀佩兰提亚",
+    "name": "战车蜻蜓"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "檀佩兰提亚",
+    "name": "开膛蚂蚁"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "洛修利亚王国",
+    "name": "绒软雪虫"
+  },
+  {
+    "level": 2,
+    "type": "昆虫",
+    "location": "洛修利亚王国",
+    "name": "冰点变色龙"
+  },
+  {
+    "level": 3,
+    "type": "昆虫",
+    "location": "洛修利亚王国",
+    "name": "齿条湖拟鲤"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "洛修利亚王国",
+    "name": "蓝色斑鳌"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "莫尔斯之地断崖",
+    "name": "肋骨蚂蚱"
+  },
+  {
+    "level": 3,
+    "type": "昆虫",
+    "location": "莫尔斯之地断崖",
+    "name": "恶魔蚊"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "莫尔斯之地",
+    "name": "糜烂蚯蚓"
+  },
+  {
+    "level": 2,
+    "type": "昆虫",
+    "location": "世界树",
+    "name": "安息蝶"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "世界树",
+    "name": "柑橘虫"
+  },
+  {
+    "level": 3,
+    "type": "昆虫",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "流行铃虫"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "古拉",
+    "name": "草原蜻蜓"
+  },
+  {
+    "level": 1,
+    "type": "昆虫",
+    "location": "英维迪亚烈王国",
+    "name": "水瓢虫"
+  },
+  {
+    "level": 2,
+    "type": "昆虫",
+    "location": "斯佩比亚帝国",
+    "name": "皇后金花虫"
+  },
+  {
+    "level": 2,
+    "type": "昆虫",
+    "location": "檀佩兰提亚",
+    "name": "可爱狼蛛"
+  },
+  {
+    "level": 2,
+    "type": "昆虫",
+    "location": "莫尔斯之地断崖",
+    "name": "绝壁萤火虫"
+  },
+  {
+    "level": 2,
+    "type": "昆虫",
+    "location": "莫尔斯之地",
+    "name": "紫电蟋蟀"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "商会",
+    "name": "热带芋"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "古拉",
+    "name": "月光香蕉"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "古拉",
+    "name": "激热橙"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "古拉",
+    "name": "肌肉莲花"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "古拉",
+    "name": "肉味辣椒"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "古拉",
+    "name": "铃铛蔓越莓"
+  },
+  {
+    "level": 3,
+    "type": "农学",
+    "location": "英维迪亚烈王国",
+    "name": "胜利枇杷"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "英维迪亚烈王国",
+    "name": "黑石榴"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "英维迪亚烈王国",
+    "name": "电火黄瓜"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "英维迪亚烈王国",
+    "name": "阴湿伞菇"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "英维迪亚烈王国",
+    "name": "红宝石山竹"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "斯佩比亚帝国",
+    "name": "朝气百香果"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "斯佩比亚帝国",
+    "name": "黄昏竹"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "斯佩比亚帝国",
+    "name": "海豚苦瓜"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "羽毛桃"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "不对称樱桃"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "精力茄"
+  },
+  {
+    "level": 3,
+    "type": "农学",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "三胞胎番茄"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "艾尔皮斯灵洞",
+    "name": "切法师过时"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "艾尔皮斯灵洞",
+    "name": "铁锤紫萁"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "洛修利亚王国",
+    "name": "甜美柠檬"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "洛修利亚王国",
+    "name": "冰包心菜"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "莫尔斯之地断崖",
+    "name": "狙击豌豆"
+  },
+  {
+    "level": 3,
+    "type": "农学",
+    "location": "莫尔斯之地断崖",
+    "name": "霓虹葡萄"
+  },
+  {
+    "level": 3,
+    "type": "农学",
+    "location": "莫尔斯之地",
+    "name": "魔法橄榄"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "莫尔斯之地",
+    "name": "猩红胡桃"
+  },
+  {
+    "level": 3,
+    "type": "农学",
+    "location": "世界树",
+    "name": "滑菇宝石"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "世界树",
+    "name": "繁星柿"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "第一轨道站",
+    "name": "疼痛玉米"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "第一轨道站",
+    "name": "鸦铃果"
+  },
+  {
+    "level": 3,
+    "type": "农学",
+    "location": "商会",
+    "name": "迷情蜜瓜"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "古拉",
+    "name": "绚丽南瓜"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "商会",
+    "name": "甘甜山葵"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "英维迪亚烈王国",
+    "name": "阳光无花果"
+  },
+  {
+    "level": 2,
+    "type": "农学",
+    "location": "艾尔皮斯灵洞",
+    "name": "死亡猕猴桃"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "檀佩兰提亚",
+    "name": "胡桃葡萄"
+  },
+  {
+    "level": 3,
+    "type": "农学",
+    "location": "洛修利亚王国",
+    "name": "紫水晶蒜头"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "莫尔斯之地断崖",
+    "name": "日轮萝卜"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "莫尔斯之地",
+    "name": "暗豆芽"
+  },
+  {
+    "level": 1,
+    "type": "农学",
+    "location": "世界树",
+    "name": "黑豆肝"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "古拉",
+    "name": "熊猫三色堇"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "古拉",
+    "name": "结香荠菜"
+  },
+  {
+    "level": 3,
+    "type": "植物",
+    "location": "古拉",
+    "name": "幸运锦兰"
+  },
+  {
+    "level": 2,
+    "type": "植物",
+    "location": "古拉",
+    "name": "梅洛夏花蜜"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "英维迪亚烈王国",
+    "name": "海胆莲花"
+  },
+  {
+    "level": 3,
+    "type": "植物",
+    "location": "英维迪亚烈王国",
+    "name": "水晶山茶花"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "英维迪亚烈王国",
+    "name": "香豌豆"
+  },
+  {
+    "level": 2,
+    "type": "植物",
+    "location": "英维迪亚烈王国",
+    "name": "塞利奥银莲花"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "斯佩比亚帝国",
+    "name": "螺旋罂粟花"
+  },
+  {
+    "level": 2,
+    "type": "植物",
+    "location": "斯佩比亚帝国",
+    "name": "日落四叶草"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "斯佩比亚帝国",
+    "name": "德拉纳塔花"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "美丽笔头菜"
+  },
+  {
+    "level": 3,
+    "type": "植物",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "水母凤仙花"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "暖竹铁线莲"
+  },
+  {
+    "level": 2,
+    "type": "植物",
+    "location": "艾尔皮斯灵洞",
+    "name": "紫藤花蕾"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "艾尔皮斯灵洞",
+    "name": "锁链草"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "檀佩兰提亚",
+    "name": "弯刀草"
+  },
+  {
+    "level": 2,
+    "type": "植物",
+    "location": "檀佩兰提亚",
+    "name": "幻光天竺葵"
+  },
+  {
+    "level": 3,
+    "type": "植物",
+    "location": "檀佩兰提亚",
+    "name": "隐秘茅草"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "檀佩兰提亚",
+    "name": "贝纳宝拉花"
+  },
+  {
+    "level": 2,
+    "type": "植物",
+    "location": "洛修利亚王国",
+    "name": "幽灵粉叶草"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "洛修利亚王国",
+    "name": "忧郁玫瑰"
+  },
+  {
+    "level": 3,
+    "type": "植物",
+    "location": "洛修利亚王国",
+    "name": "水晶桔梗"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "洛修利亚王国",
+    "name": "银蕾维西亚花"
+  },
+  {
+    "level": 3,
+    "type": "植物",
+    "location": "莫尔斯之地断崖",
+    "name": "法兰福玫瑰"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "莫尔斯之地断崖",
+    "name": "大王金盏花"
+  },
+  {
+    "level": 2,
+    "type": "植物",
+    "location": "莫尔斯之地断崖",
+    "name": "林卡蜜"
+  },
+  {
+    "level": 2,
+    "type": "植物",
+    "location": "莫尔斯之地",
+    "name": "伞状痕花"
+  },
+  {
+    "level": 3,
+    "type": "植物",
+    "location": "莫尔斯之地",
+    "name": "开心猪笼草"
+  },
+  {
+    "level": 2,
+    "type": "植物",
+    "location": "世界树",
+    "name": "苔藓珠串"
+  },
+  {
+    "level": 3,
+    "type": "植物",
+    "location": "世界树",
+    "name": "无限玫瑰"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "第一轨道站",
+    "name": "烟熏粉碎机"
+  },
+  {
+    "level": 2,
+    "type": "植物",
+    "location": "第一轨道站",
+    "name": "无根坠花"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "英维迪亚烈王国",
+    "name": "福特米"
+  },
+  {
+    "level": 2,
+    "type": "植物",
+    "location": "利贝拉里塔斯岛屿群",
+    "name": "铃麦草"
+  },
+  {
+    "level": 3,
+    "type": "植物",
+    "location": "斯佩比亚帝国",
+    "name": "姆基基姆小麦"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "古拉",
+    "name": "邪恶向日葵"
+  },
+  {
+    "level": 3,
+    "type": "植物",
+    "location": "艾尔皮斯灵洞",
+    "name": "神秘大丽花"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "艾尔皮斯灵洞",
+    "name": "可爱富贵草"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "檀佩兰提亚",
+    "name": "夜百合"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "洛修利亚王国",
+    "name": "酥浆果"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "莫尔斯之地断崖",
+    "name": "孤高向日葵"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "莫尔斯之地",
+    "name": "墨色堇"
+  },
+  {
+    "level": 1,
+    "type": "植物",
+    "location": "世界树",
+    "name": "银枣花"
+  },
+  {
+    "level": 3,
+    "type": "植物",
+    "location": "第一轨道站",
+    "name": "黑白风信子"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "id": 0,
+    "name": "火属性之力",
+    "level": 3,
+    "bladeId": 1
+  },
+  {
+    "id": 0,
+    "name": "集中力",
+    "level": 3,
+    "bladeId": 1
+  },
+  {
+    "id": 0,
+    "name": "料理",
+    "level": 3,
+    "bladeId": 1
+  },
+  {
+    "id": 0,
+    "name": "光属性之力",
+    "level": 3,
+    "bladeId": 2
+  },
+  {
+    "id": 0,
+    "name": "集中力",
+    "level": 3,
+    "bladeId": 2
+  },
+  {
+    "id": 0,
+    "name": "女孩谈话",
+    "level": 3,
+    "bladeId": 2
+  },
+  {
+    "id": 0,
+    "name": "水属性之力",
+    "level": 3,
+    "bladeId": 3
+  },
+  {
+    "id": 0,
+    "name": "古代文明的知识",
+    "level": 3,
+    "bladeId": 3
+  },
+  {
+    "id": 0,
+    "name": "植物学",
+    "level": 3,
+    "bladeId": 3
+  },
+  {
+    "id": 0,
+    "name": "跳跃",
+    "level": 3,
+    "bladeId": 4
+  },
+  {
+    "id": 0,
+    "name": "怪力",
+    "level": 3,
+    "bladeId": 4
+  },
+  {
+    "id": 0,
+    "name": "诺彭的知识",
+    "level": 3,
+    "bladeId": 4
+  },
+  {
+    "id": 0,
+    "name": "开锁",
+    "level": 3,
+    "bladeId": 5
+  },
+  {
+    "id": 0,
+    "name": "忍耐力",
+    "level": 3,
+    "bladeId": 5
+  },
+  {
+    "id": 0,
+    "name": "农学",
+    "level": 3,
+    "bladeId": 5
+  },
+  {
+    "id": 0,
+    "name": "观察眼",
+    "level": 3,
+    "bladeId": 6
+  },
+  {
+    "id": 0,
+    "name": "古代文明的知识",
+    "level": 3,
+    "bladeId": 6
+  },
+  {
+    "id": 0,
+    "name": "森林学",
+    "level": 3,
+    "bladeId": 6
+  },
+  {
+    "id": 0,
+    "name": "风属性之力",
+    "level": 3,
+    "bladeId": 7
+  },
+  {
+    "id": 0,
+    "name": "开锁",
+    "level": 3,
+    "bladeId": 7
+  },
+  {
+    "id": 0,
+    "name": "瘴气雾散",
+    "level": 1,
+    "bladeId": 7
+  },
+  {
+    "id": 0,
+    "name": "火属性之力",
+    "level": 3,
+    "bladeId": 8
+  },
+  {
+    "id": 0,
+    "name": "观察眼",
+    "level": 3,
+    "bladeId": 8
+  },
+  {
+    "id": 0,
+    "name": "矿物学",
+    "level": 3,
+    "bladeId": 8
+  },
+  {
+    "id": 0,
+    "name": "雷属性之力",
+    "level": 3,
+    "bladeId": 9
+  },
+  {
+    "id": 0,
+    "name": "开锁",
+    "level": 3,
+    "bladeId": 9
+  },
+  {
+    "id": 0,
+    "name": "鱼类学",
+    "level": 3,
+    "bladeId": 9
+  },
+  {
+    "id": 0,
+    "name": "水属性之力",
+    "level": 3,
+    "bladeId": 10
+  },
+  {
+    "id": 0,
+    "name": "忍耐力",
+    "level": 3,
+    "bladeId": 10
+  },
+  {
+    "id": 0,
+    "name": "森林学",
+    "level": 3,
+    "bladeId": 10
+  },
+  {
+    "id": 0,
+    "name": "水属性之力",
+    "level": 3,
+    "bladeId": 11
+  },
+  {
+    "id": 0,
+    "name": "跳跃",
+    "level": 3,
+    "bladeId": 11
+  },
+  {
+    "id": 0,
+    "name": "古代文明的知识",
+    "level": 3,
+    "bladeId": 11
+  },
+  {
+    "id": 0,
+    "name": "热诚之心",
+    "level": 3,
+    "bladeId": 12
+  },
+  {
+    "id": 0,
+    "name": "正义之心",
+    "level": 3,
+    "bladeId": 12
+  },
+  {
+    "id": 0,
+    "name": "温柔之心",
+    "level": 3,
+    "bladeId": 12
+  },
+  {
+    "id": 0,
+    "name": "地属性之力",
+    "level": 5,
+    "bladeId": 13
+  },
+  {
+    "id": 0,
+    "name": "集中力",
+    "level": 5,
+    "bladeId": 13
+  },
+  {
+    "id": 0,
+    "name": "怪力",
+    "level": 5,
+    "bladeId": 13
+  },
+  {
+    "id": 0,
+    "name": "暗属性之力",
+    "level": 3,
+    "bladeId": 14
+  },
+  {
+    "id": 0,
+    "name": "跳跃",
+    "level": 3,
+    "bladeId": 14
+  },
+  {
+    "id": 0,
+    "name": "暗杀",
+    "level": 3,
+    "bladeId": 14
+  },
+  {
+    "id": 0,
+    "name": "暗属性之力",
+    "level": 3,
+    "bladeId": 15
+  },
+  {
+    "id": 0,
+    "name": "女孩谈话",
+    "level": 3,
+    "bladeId": 15
+  },
+  {
+    "id": 0,
+    "name": "机械纺织",
+    "level": 3,
+    "bladeId": 15
+  },
+  {
+    "id": 0,
+    "name": "观察眼",
+    "level": 3,
+    "bladeId": 16
+  },
+  {
+    "id": 0,
+    "name": "矿物学",
+    "level": 3,
+    "bladeId": 16
+  },
+  {
+    "id": 0,
+    "name": "宝石梦",
+    "level": 3,
+    "bladeId": 16
+  },
+  {
+    "id": 0,
+    "name": "观察眼",
+    "level": 3,
+    "bladeId": 17
+  },
+  {
+    "id": 0,
+    "name": "忍耐力",
+    "level": 3,
+    "bladeId": 17
+  },
+  {
+    "id": 0,
+    "name": "糕点师",
+    "level": 3,
+    "bladeId": 17
+  },
+  {
+    "id": 0,
+    "name": "诺彭的知识",
+    "level": 3,
+    "bladeId": 18
+  },
+  {
+    "id": 0,
+    "name": "打捞技术",
+    "level": 3,
+    "bladeId": 18
+  },
+  {
+    "id": 0,
+    "name": "韦驮天",
+    "level": 3,
+    "bladeId": 18
+  },
+  {
+    "id": 0,
+    "name": "诺彭的知识",
+    "level": 3,
+    "bladeId": 19
+  },
+  {
+    "id": 0,
+    "name": "农学",
+    "level": 3,
+    "bladeId": 19
+  },
+  {
+    "id": 0,
+    "name": "幸运女孩",
+    "level": 3,
+    "bladeId": 19
+  },
+  {
+    "id": 0,
+    "name": "水属性之力",
+    "level": 3,
+    "bladeId": 20
+  },
+  {
+    "id": 0,
+    "name": "女孩谈话",
+    "level": 3,
+    "bladeId": 20
+  },
+  {
+    "id": 0,
+    "name": "打捞技术",
+    "level": 3,
+    "bladeId": 20
+  },
+  {
+    "id": 0,
+    "name": "冰属性之力",
+    "level": 3,
+    "bladeId": 21
+  },
+  {
+    "id": 0,
+    "name": "集中力",
+    "level": 3,
+    "bladeId": 21
+  },
+  {
+    "id": 0,
+    "name": "诺彭的知识",
+    "level": 3,
+    "bladeId": 21
+  },
+  {
+    "id": 0,
+    "name": "冰属性之力",
+    "level": 3,
+    "bladeId": 22
+  },
+  {
+    "id": 0,
+    "name": "古代文明的知识",
+    "level": 3,
+    "bladeId": 22
+  },
+  {
+    "id": 0,
+    "name": "骑士道",
+    "level": 3,
+    "bladeId": 22
+  },
+  {
+    "id": 0,
+    "name": "雷属性之力",
+    "level": 5,
+    "bladeId": 23
+  },
+  {
+    "id": 0,
+    "name": "开锁",
+    "level": 3,
+    "bladeId": 23
+  },
+  {
+    "id": 0,
+    "name": "女孩谈话",
+    "level": 3,
+    "bladeId": 23
+  },
+  {
+    "id": 0,
+    "name": "暗属性之力",
+    "level": 3,
+    "bladeId": 24
+  },
+  {
+    "id": 0,
+    "name": "植物学",
+    "level": 3,
+    "bladeId": 24
+  },
+  {
+    "id": 0,
+    "name": "千里邪眼",
+    "level": 3,
+    "bladeId": 24
+  },
+  {
+    "id": 0,
+    "name": "忍耐力",
+    "level": 3,
+    "bladeId": 25
+  },
+  {
+    "id": 0,
+    "name": "鱼类学",
+    "level": 3,
+    "bladeId": 25
+  },
+  {
+    "id": 0,
+    "name": "调谐和声",
+    "level": 5,
+    "bladeId": 25
+  },
+  {
+    "id": 0,
+    "name": "怪力",
+    "level": 3,
+    "bladeId": 26
+  },
+  {
+    "id": 0,
+    "name": "打捞技术",
+    "level": 3,
+    "bladeId": 26
+  },
+  {
+    "id": 0,
+    "name": "巨神兽兵器的知识",
+    "level": 3,
+    "bladeId": 26
+  },
+  {
+    "id": 0,
+    "name": "地属性之力",
+    "level": 3,
+    "bladeId": 27
+  },
+  {
+    "id": 0,
+    "name": "鱼类学",
+    "level": 3,
+    "bladeId": 27
+  },
+  {
+    "id": 0,
+    "name": "芙涅克斯谈话",
+    "level": 3,
+    "bladeId": 27
+  },
+  {
+    "id": 0,
+    "name": "开锁",
+    "level": 3,
+    "bladeId": 28
+  },
+  {
+    "id": 0,
+    "name": "女孩谈话",
+    "level": 3,
+    "bladeId": 28
+  },
+  {
+    "id": 0,
+    "name": "喜欢女孩",
+    "level": 3,
+    "bladeId": 28
+  },
+  {
+    "id": 0,
+    "name": "忍耐力",
+    "level": 3,
+    "bladeId": 29
+  },
+  {
+    "id": 0,
+    "name": "森林学",
+    "level": 3,
+    "bladeId": 29
+  },
+  {
+    "id": 0,
+    "name": "饭团专家",
+    "level": 5,
+    "bladeId": 29
+  },
+  {
+    "id": 0,
+    "name": "风属性之力",
+    "level": 3,
+    "bladeId": 30
+  },
+  {
+    "id": 0,
+    "name": "观察眼",
+    "level": 3,
+    "bladeId": 30
+  },
+  {
+    "id": 0,
+    "name": "超古代文明的知识",
+    "level": 3,
+    "bladeId": 30
+  },
+  {
+    "id": 0,
+    "name": "雷属性之力",
+    "level": 5,
+    "bladeId": 31
+  },
+  {
+    "id": 0,
+    "name": "集中力",
+    "level": 3,
+    "bladeId": 31
+  },
+  {
+    "id": 0,
+    "name": "雷电控制",
+    "level": 5,
+    "bladeId": 31
+  },
+  {
+    "id": 0,
+    "name": "风属性之力",
+    "level": 5,
+    "bladeId": 32
+  },
+  {
+    "id": 0,
+    "name": "跳跃",
+    "level": 5,
+    "bladeId": 32
+  },
+  {
+    "id": 0,
+    "name": "怪力",
+    "level": 5,
+    "bladeId": 32
+  },
+  {
+    "id": 0,
+    "name": "跳跃",
+    "level": 3,
+    "bladeId": 33
+  },
+  {
+    "id": 0,
+    "name": "昆虫学",
+    "level": 3,
+    "bladeId": 33
+  },
+  {
+    "id": 0,
+    "name": "健忘症",
+    "level": 3,
+    "bladeId": 33
+  },
+  {
+    "id": 0,
+    "name": "地属性之力",
+    "level": 3,
+    "bladeId": 34
+  },
+  {
+    "id": 0,
+    "name": "植物学",
+    "level": 5,
+    "bladeId": 34
+  },
+  {
+    "id": 0,
+    "name": "偷心",
+    "level": 5,
+    "bladeId": 34
+  },
+  {
+    "id": 0,
+    "name": "光属性之力",
+    "level": 3,
+    "bladeId": 35
+  },
+  {
+    "id": 0,
+    "name": "开锁",
+    "level": 3,
+    "bladeId": 35
+  },
+  {
+    "id": 0,
+    "name": "高速演算",
+    "level": 3,
+    "bladeId": 35
+  },
+  {
+    "id": 0,
+    "name": "雷属性之力",
+    "level": 3,
+    "bladeId": 36
+  },
+  {
+    "id": 0,
+    "name": "怪力",
+    "level": 3,
+    "bladeId": 36
+  },
+  {
+    "id": 0,
+    "name": "失控",
+    "level": 5,
+    "bladeId": 36
+  },
+  {
+    "id": 0,
+    "name": "冰属性之力",
+    "level": 3,
+    "bladeId": 37
+  },
+  {
+    "id": 0,
+    "name": "森林学",
+    "level": 3,
+    "bladeId": 37
+  },
+  {
+    "id": 0,
+    "name": "冰雕",
+    "level": 3,
+    "bladeId": 37
+  },
+  {
+    "id": 0,
+    "name": "诺彭的知识",
+    "level": 3,
+    "bladeId": 38
+  },
+  {
+    "id": 0,
+    "name": "古代文明的知识",
+    "level": 3,
+    "bladeId": 38
+  },
+  {
+    "id": 0,
+    "name": "矿物学",
+    "level": 3,
+    "bladeId": 38
+  },
+  {
+    "id": 0,
+    "name": "昆虫学",
+    "level": 3,
+    "bladeId": 39
+  },
+  {
+    "id": 0,
+    "name": "打捞技术",
+    "level": 3,
+    "bladeId": 39
+  },
+  {
+    "id": 0,
+    "name": "怪力",
+    "level": 5,
+    "bladeId": 39
+  },
+  {
+    "id": 0,
+    "name": "打捞技术",
+    "level": 3,
+    "bladeId": 40
+  },
+  {
+    "id": 0,
+    "name": "观察眼",
+    "level": 3,
+    "bladeId": 40
+  },
+  {
+    "id": 0,
+    "name": "古代文明的知识",
+    "level": 3,
+    "bladeId": 40
+  },
+  {
+    "id": 0,
+    "name": "鱼类学",
+    "level": 3,
+    "bladeId": 41
+  },
+  {
+    "id": 0,
+    "name": "忍耐力",
+    "level": 3,
+    "bladeId": 41
+  },
+  {
+    "id": 0,
+    "name": "诺彭的知识",
+    "level": 3,
+    "bladeId": 41
+  },
+  {
+    "id": 0,
+    "name": "激辣料理",
+    "level": 3,
+    "bladeId": 42
+  },
+  {
+    "id": 0,
+    "name": "农学",
+    "level": 3,
+    "bladeId": 42
+  },
+  {
+    "id": 0,
+    "name": "忍耐力",
+    "level": 3,
+    "bladeId": 42
+  },
+  {
+    "id": 0,
+    "name": "光属性之力",
+    "level": 5,
+    "bladeId": 43
+  },
+  {
+    "id": 0,
+    "name": "森林学",
+    "level": 3,
+    "bladeId": 43
+  },
+  {
+    "id": 0,
+    "name": "古代文明的知识",
+    "level": 3,
+    "bladeId": 43
+  },
+  {
+    "id": 0,
+    "name": "观察眼",
+    "level": 3,
+    "bladeId": 44
+  },
+  {
+    "id": 0,
+    "name": "集中力",
+    "level": 3,
+    "bladeId": 44
+  },
+  {
+    "id": 0,
+    "name": "开锁",
+    "level": 3,
+    "bladeId": 44
+  }
+]

@@ -1,0 +1,3873 @@
+[
+  {
+    "blade": {
+      "element": "火",
+      "weaponType": "圣杯之剑",
+      "fightType": "攻击",
+      "draw": false,
+      "coreNum": "2",
+      "firstStage": 1,
+      "attrPlus": "力量",
+      "attrPlusValue": 10,
+      "id": 1,
+      "name": "焰"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 1,
+        "id": 0,
+        "name": "火属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 1,
+        "id": 0,
+        "name": "集中力"
+      },
+      {
+        "level": 3,
+        "bladeId": 1,
+        "id": 0,
+        "name": "料理"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "蔬菜",
+        "书籍"
+      ],
+      "loveItem": [
+        {
+          "location": "弗雷斯贝古村庄",
+          "name": "赛利奥茶"
+        },
+        {
+          "location": "古拉",
+          "name": "木纹阿尔卑斯长号"
+        }
+      ],
+      "name": "焰"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 576,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击野兽时,伤害输出提升100%",
+        "name": "焰"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 638,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击倒地状态的敌人时,伤害输出提升150%",
+        "name": "焰"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 9,
+        "dmg": 850,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "暴击伤害提升85%",
+        "name": "焰"
+      }
+    ],
+    "name": "焰"
+  },
+  {
+    "blade": {
+      "element": "光",
+      "weaponType": "圣杯之剑",
+      "fightType": "攻击",
+      "draw": false,
+      "coreNum": "2",
+      "firstStage": 3,
+      "attrPlus": "以太力",
+      "attrPlusValue": 10,
+      "id": 2,
+      "name": "光"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 2,
+        "id": 0,
+        "name": "光属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 2,
+        "id": 0,
+        "name": "集中力"
+      },
+      {
+        "level": 3,
+        "bladeId": 2,
+        "id": 0,
+        "name": "女孩谈话"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "甜品",
+        "美术品"
+      ],
+      "loveItem": [
+        {
+          "location": "斯佩比亚",
+          "name": "云海蟹奶油土豆饼"
+        },
+        {
+          "location": "英维迪亚烈",
+          "name": "最后的合唱"
+        }
+      ],
+      "name": "光"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 576,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击倒地状态的敌人时,伤害输出提升150%",
+        "name": "光"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 13,
+        "dmg": 638,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "光"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 4,
+        "dmg": 850,
+        "hitPlus": 0,
+        "critPlus": 50,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "光"
+      }
+    ],
+    "name": "光"
+  },
+  {
+    "blade": {
+      "element": "水",
+      "weaponType": "双环刃",
+      "fightType": "回复",
+      "draw": false,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "以太力",
+      "attrPlusValue": 10,
+      "id": 3,
+      "name": "白虎"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 3,
+        "id": 0,
+        "name": "水属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 3,
+        "id": 0,
+        "name": "古代文明的知识"
+      },
+      {
+        "level": 3,
+        "bladeId": 3,
+        "id": 0,
+        "name": "植物学"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "肉类",
+        "桌游"
+      ],
+      "loveItem": [
+        {
+          "location": "英维迪亚烈",
+          "name": "兴奋翻车鱼干"
+        },
+        {
+          "location": "古拉",
+          "name": "万年杉树古琴"
+        }
+      ],
+      "name": "白虎"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 3,
+        "dmg": 528,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "发生暴击时,HP回复伤害输出的100%",
+        "name": "白虎"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "白虎"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时生成回复瓶(小),有100%的概率生成2个",
+        "name": "白虎"
+      }
+    ],
+    "name": "白虎"
+  },
+  {
+    "blade": {
+      "element": "定制",
+      "weaponType": "花之盾",
+      "fightType": "防御",
+      "draw": false,
+      "coreNum": "定制",
+      "firstStage": 2,
+      "attrPlus": "最大HP",
+      "attrPlusValue": 15,
+      "id": 4,
+      "name": "花JS"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 4,
+        "id": 0,
+        "name": "跳跃"
+      },
+      {
+        "level": 3,
+        "bladeId": 4,
+        "id": 0,
+        "name": "怪力"
+      },
+      {
+        "level": 3,
+        "bladeId": 4,
+        "id": 0,
+        "name": "诺彭的知识"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "主食",
+        "乐器"
+      ],
+      "loveItem": [
+        {
+          "location": "阿伐利提亚",
+          "name": "泡泡果汁"
+        },
+        {
+          "location": "阿伐利提亚",
+          "name": "圆圆沙锤"
+        }
+      ],
+      "name": "花JS"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 4,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "name": "花JS"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 6,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "name": "花JS"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 1,
+        "dmg": 714,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "name": "花JS"
+      }
+    ],
+    "name": "花JS"
+  },
+  {
+    "blade": {
+      "element": "定制",
+      "weaponType": "花之臂",
+      "fightType": "防御",
+      "draw": false,
+      "coreNum": "定制",
+      "firstStage": 4,
+      "attrPlus": "敏捷",
+      "attrPlusValue": 10,
+      "id": 5,
+      "name": "花JK"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 5,
+        "id": 0,
+        "name": "开锁"
+      },
+      {
+        "level": 3,
+        "bladeId": 5,
+        "id": 0,
+        "name": "忍耐力"
+      },
+      {
+        "level": 3,
+        "bladeId": 5,
+        "id": 0,
+        "name": "农学"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "蔬菜",
+        "美术品"
+      ],
+      "loveItem": [
+        {
+          "location": "斯佩比亚",
+          "name": "满天宝石塔"
+        },
+        {
+          "location": "洛修利亚",
+          "name": "玄武纹棉布"
+        }
+      ],
+      "name": "花JK"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 2,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "name": "花JK"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 5,
+        "dmg": 609,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "name": "花JK"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "name": "花JK"
+      }
+    ],
+    "name": "花JK"
+  },
+  {
+    "blade": {
+      "element": "定制",
+      "weaponType": "花之剑",
+      "fightType": "攻击",
+      "draw": false,
+      "coreNum": "定制",
+      "firstStage": 8,
+      "attrPlus": "力量",
+      "attrPlusValue": 10,
+      "id": 6,
+      "name": "花JD"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 6,
+        "id": 0,
+        "name": "观察眼"
+      },
+      {
+        "level": 3,
+        "bladeId": 6,
+        "id": 0,
+        "name": "古代文明的知识"
+      },
+      {
+        "level": 3,
+        "bladeId": 6,
+        "id": 0,
+        "name": "森林学"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "主食",
+        "纺织品"
+      ],
+      "loveItem": [
+        {
+          "location": "阿伐利提亚",
+          "name": "迷情蜜瓜冰糕"
+        },
+        {
+          "location": "古拉",
+          "name": "风花梳子"
+        }
+      ],
+      "name": "花JD"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 5,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "name": "花JD"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 5,
+        "dmg": 609,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "name": "花JD"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 4,
+        "dmg": 748,
+        "hitPlus": 25,
+        "critPlus": 50,
+        "name": "花JD"
+      }
+    ],
+    "name": "花JD"
+  },
+  {
+    "blade": {
+      "element": "风",
+      "weaponType": "双镰刀",
+      "fightType": "攻击",
+      "draw": false,
+      "coreNum": "2",
+      "firstStage": 4,
+      "attrPlus": "灵巧",
+      "attrPlusValue": 15,
+      "id": 7,
+      "name": "朱雀"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 7,
+        "id": 0,
+        "name": "风属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 7,
+        "id": 0,
+        "name": "开锁"
+      },
+      {
+        "level": 1,
+        "bladeId": 7,
+        "id": 0,
+        "name": "瘴气雾散"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "鱼类",
+        "桌游"
+      ],
+      "loveItem": [
+        {
+          "location": "古拉",
+          "name": "树染缠腰布"
+        },
+        {
+          "location": "洛修利亚",
+          "name": "烤全深渊蝶鲨"
+        }
+      ],
+      "name": "朱雀"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 4,
+        "dmg": 480,
+        "hitPlus": 25,
+        "critPlus": 0,
+        "effect": "攻击飞行类时,伤害输出提升100%",
+        "name": "朱雀"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 8,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "朱雀"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 4,
+        "dmg": 680,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击飞行类时有5%的概率,使其无法战斗(首领及珍稀种除外)",
+        "name": "朱雀"
+      }
+    ],
+    "name": "朱雀"
+  },
+  {
+    "blade": {
+      "element": "火",
+      "weaponType": "军刀",
+      "fightType": "防御",
+      "draw": false,
+      "coreNum": "2",
+      "firstStage": 4,
+      "attrPlus": "敏捷",
+      "attrPlusValue": 15,
+      "id": 8,
+      "name": "伽具土"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 8,
+        "id": 0,
+        "name": "火属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 8,
+        "id": 0,
+        "name": "观察眼"
+      },
+      {
+        "level": 3,
+        "bladeId": 8,
+        "id": 0,
+        "name": "矿物学"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "甜品",
+        "化妆品"
+      ],
+      "loveItem": [
+        {
+          "location": "洛修利亚",
+          "name": "融雪千层饼"
+        },
+        {
+          "location": "英维迪亚烈",
+          "name": "阿鲁斯油护手霜"
+        }
+      ],
+      "name": "伽具土"
+    },
+    "name": "伽具土"
+  },
+  {
+    "blade": {
+      "element": "雷",
+      "weaponType": "大剑",
+      "fightType": "攻击",
+      "draw": false,
+      "coreNum": "3",
+      "firstStage": 5,
+      "attrPlus": "力量",
+      "attrPlusValue": 10,
+      "id": 9,
+      "name": "彩歌"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 9,
+        "id": 0,
+        "name": "雷属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 9,
+        "id": 0,
+        "name": "开锁"
+      },
+      {
+        "level": 3,
+        "bladeId": 9,
+        "id": 0,
+        "name": "鱼类学"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "肉类",
+        "书籍"
+      ],
+      "loveItem": [
+        {
+          "location": "洛修利亚",
+          "name": "蛋黄酱烤章鱼"
+        },
+        {
+          "location": "洛修利亚",
+          "name": "星月唇膏"
+        }
+      ],
+      "name": "彩歌"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 600,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击机械时,伤害输出提升100%",
+        "name": "彩歌"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 2,
+        "dmg": 725,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "暴击伤害提升85%",
+        "name": "彩歌"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 850,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "暴击伤害提升85%",
+        "name": "彩歌"
+      }
+    ],
+    "name": "彩歌"
+  },
+  {
+    "blade": {
+      "element": "水",
+      "weaponType": "弯刀",
+      "fightType": "回复",
+      "draw": false,
+      "coreNum": "3",
+      "firstStage": 7,
+      "attrPlus": "最大HP",
+      "attrPlusValue": 15,
+      "id": 10,
+      "name": "尼娅"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 10,
+        "id": 0,
+        "name": "水属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 10,
+        "id": 0,
+        "name": "忍耐力"
+      },
+      {
+        "level": 3,
+        "bladeId": 10,
+        "id": 0,
+        "name": "森林学"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "鱼类",
+        "乐器"
+      ],
+      "loveItem": [
+        {
+          "location": "弥先岛",
+          "name": "雪孩子土豆沙拉"
+        },
+        {
+          "location": "阿伐利提亚",
+          "name": "秘密潜入"
+        }
+      ],
+      "name": "尼娅"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 3,
+        "dmg": 504,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "必杀技命中时,HP回复伤害输出的20%",
+        "name": "尼娅"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 609,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时生成回复瓶(小),有100%的概率生成2个",
+        "name": "尼娅"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 2,
+        "dmg": 714,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "尼娅"
+      }
+    ],
+    "name": "尼娅"
+  },
+  {
+    "blade": {
+      "element": "水",
+      "weaponType": "刀",
+      "fightType": "防御",
+      "draw": false,
+      "coreNum": "2",
+      "firstStage": 6,
+      "attrPlus": "敏捷",
+      "attrPlusValue": 15,
+      "id": 11,
+      "name": "绵津见"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 11,
+        "id": 0,
+        "name": "水属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 11,
+        "id": 0,
+        "name": "跳跃"
+      },
+      {
+        "level": 3,
+        "bladeId": 11,
+        "id": 0,
+        "name": "古代文明的知识"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "甜品",
+        "美术品"
+      ],
+      "loveItem": [
+        {
+          "location": "洛修利亚",
+          "name": "熔岩馅饼"
+        },
+        {
+          "location": "弥先岛",
+          "name": "莫特科拉人偶"
+        }
+      ],
+      "name": "绵津见"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "绵津见"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 3,
+        "dmg": 609,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "暴击伤害提升85%",
+        "name": "绵津见"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 13,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击锁定自己的敌人时,伤害输出提升100%",
+        "name": "绵津见"
+      }
+    ],
+    "name": "绵津见"
+  },
+  {
+    "blade": {
+      "element": "冰",
+      "weaponType": "战锤",
+      "fightType": "防御",
+      "draw": false,
+      "coreNum": "2",
+      "firstStage": 4,
+      "attrPlus": "最大HP",
+      "attrPlusValue": 15,
+      "id": 12,
+      "name": "红莲"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 12,
+        "id": 0,
+        "name": "热诚之心"
+      },
+      {
+        "level": 3,
+        "bladeId": 12,
+        "id": 0,
+        "name": "正义之心"
+      },
+      {
+        "level": 3,
+        "bladeId": 12,
+        "id": 0,
+        "name": "温柔之心"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "肉类",
+        "乐器"
+      ],
+      "loveItem": [
+        {
+          "location": "古拉",
+          "name": "星形肉排"
+        },
+        {
+          "location": "阿伐利提亚",
+          "name": "玫拉姆森林冒险记"
+        }
+      ],
+      "name": "红莲"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 1,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击锁定自己的敌人时,伤害输出提升100%",
+        "name": "红莲"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击倒地状态的敌人时,伤害输出提升150%",
+        "name": "红莲"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 7,
+        "dmg": 680,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "红莲"
+      }
+    ],
+    "name": "红莲"
+  },
+  {
+    "blade": {
+      "element": "地",
+      "weaponType": "长枪",
+      "fightType": "攻击",
+      "draw": true,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "力量",
+      "attrPlusValue": 15,
+      "id": 13,
+      "name": "力男"
+    },
+    "mapSkill": [
+      {
+        "level": 5,
+        "bladeId": 13,
+        "id": 0,
+        "name": "地属性之力"
+      },
+      {
+        "level": 5,
+        "bladeId": 13,
+        "id": 0,
+        "name": "集中力"
+      },
+      {
+        "level": 5,
+        "bladeId": 13,
+        "id": 0,
+        "name": "怪力"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "主食",
+        "书籍"
+      ],
+      "loveItem": [
+        {
+          "location": "阿伐利提亚",
+          "name": "糖醋海洋茶鱼"
+        },
+        {
+          "location": "洛修利亚",
+          "name": "雪原的彭诺强盗"
+        }
+      ],
+      "name": "力男"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 4,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击倒地状态的敌人时,伤害输出提升150%",
+        "name": "力男"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 6,
+        "dmg": 609,
+        "hitPlus": 25,
+        "critPlus": 0,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "力男"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 14,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "力男"
+      }
+    ],
+    "name": "力男"
+  },
+  {
+    "blade": {
+      "element": "暗",
+      "weaponType": "刀",
+      "fightType": "防御",
+      "draw": true,
+      "coreNum": "1",
+      "firstStage": 2,
+      "attrPlus": "敏捷",
+      "attrPlusValue": 10,
+      "id": 14,
+      "name": "婆娑罗"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 14,
+        "id": 0,
+        "name": "暗属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 14,
+        "id": 0,
+        "name": "跳跃"
+      },
+      {
+        "level": 3,
+        "bladeId": 14,
+        "id": 0,
+        "name": "暗杀"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "饮料",
+        "美术品"
+      ],
+      "loveItem": [
+        {
+          "location": "洛修利亚",
+          "name": "雪醋淋冰包心菜"
+        },
+        {
+          "location": "弗雷斯贝古村庄",
+          "name": "赤杆三味线"
+        }
+      ],
+      "name": "婆娑罗"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 4,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "必杀技造成的仇恨值提升100%",
+        "name": "婆娑罗"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 1,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击锁定自己的敌人时,伤害输出提升100%",
+        "name": "婆娑罗"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 2,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "有3%的概率使敌人无法战斗,(首领及珍稀种除外)",
+        "name": "婆娑罗"
+      }
+    ],
+    "name": "婆娑罗"
+  },
+  {
+    "blade": {
+      "element": "暗",
+      "weaponType": "长枪",
+      "fightType": "攻击",
+      "draw": true,
+      "coreNum": "3",
+      "firstStage": 2,
+      "attrPlus": "以太力",
+      "attrPlusValue": 15,
+      "id": 15,
+      "name": "鸣"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 15,
+        "id": 0,
+        "name": "暗属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 15,
+        "id": 0,
+        "name": "女孩谈话"
+      },
+      {
+        "level": 3,
+        "bladeId": 15,
+        "id": 0,
+        "name": "机械纺织"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "甜品",
+        "纺织品"
+      ],
+      "loveItem": [
+        {
+          "location": "洛修利亚",
+          "name": "香脆冰雪酱瓜"
+        },
+        {
+          "location": "鸣的纺织",
+          "name": "王家羊毛"
+        }
+      ],
+      "name": "鸣"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 3,
+        "dmg": 432,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "鸣"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": true,
+        "attackType": "物理",
+        "attackNum": 4,
+        "dmg": 580,
+        "hitPlus": 25,
+        "critPlus": 0,
+        "effect": "攻击野兽时有5%的概率,使其无法战斗(首领及珍稀种除外)",
+        "name": "鸣"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 5,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "鸣"
+      }
+    ],
+    "name": "鸣"
+  },
+  {
+    "blade": {
+      "element": "地",
+      "weaponType": "战斧",
+      "fightType": "攻击",
+      "draw": true,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "灵巧",
+      "attrPlusValue": 10,
+      "id": 16,
+      "name": "玛瑙"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 16,
+        "id": 0,
+        "name": "观察眼"
+      },
+      {
+        "level": 3,
+        "bladeId": 16,
+        "id": 0,
+        "name": "矿物学"
+      },
+      {
+        "level": 3,
+        "bladeId": 16,
+        "id": 0,
+        "name": "宝石梦"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "饮料",
+        "美术品"
+      ],
+      "loveItem": [
+        {
+          "location": "斯佩比亚",
+          "name": "香味干金枪鱼头汤"
+        },
+        {
+          "location": "斯佩比亚",
+          "name": "假肢阿乔的悲惨世界"
+        }
+      ],
+      "name": "玛瑙"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 3,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击浮空状态的敌人时,伤害输出提升150%",
+        "name": "玛瑙"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 3,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击倒地状态的敌人时,伤害输出提升150%",
+        "name": "玛瑙"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 3,
+        "dmg": 680,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "暴击伤害提升85%",
+        "name": "玛瑙"
+      }
+    ],
+    "name": "玛瑙"
+  },
+  {
+    "blade": {
+      "element": "水",
+      "weaponType": "战斧",
+      "fightType": "攻击",
+      "draw": true,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "最大HP",
+      "attrPlusValue": 15,
+      "id": 17,
+      "name": "雄黄"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 17,
+        "id": 0,
+        "name": "观察眼"
+      },
+      {
+        "level": 3,
+        "bladeId": 17,
+        "id": 0,
+        "name": "忍耐力"
+      },
+      {
+        "level": 3,
+        "bladeId": 17,
+        "id": 0,
+        "name": "糕点师"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "甜品",
+        "纺织品"
+      ],
+      "loveItem": [
+        {
+          "location": "雄黄的甜点",
+          "name": "霓虹葡萄布丁"
+        },
+        {
+          "location": "斯佩比亚",
+          "name": "帝国秘密温泉一日游"
+        }
+      ],
+      "name": "雄黄"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "使用必杀技时,牵绊增加100",
+        "name": "雄黄"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 3,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击命中时,敌人对自身的仇恨值减少40%",
+        "name": "雄黄"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 8,
+        "dmg": 680,
+        "hitPlus": 25,
+        "critPlus": 0,
+        "effect": "攻击倒地状态的敌人时,伤害输出提升150%",
+        "name": "雄黄"
+      }
+    ],
+    "name": "雄黄"
+  },
+  {
+    "blade": {
+      "element": "风",
+      "weaponType": "弹击球",
+      "fightType": "回复",
+      "draw": true,
+      "coreNum": "1",
+      "firstStage": 2,
+      "attrPlus": "最大HP",
+      "attrPlusValue": 15,
+      "id": 18,
+      "name": "韦驮天"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 18,
+        "id": 0,
+        "name": "诺彭的知识"
+      },
+      {
+        "level": 3,
+        "bladeId": 18,
+        "id": 0,
+        "name": "打捞技术"
+      },
+      {
+        "level": 3,
+        "bladeId": 18,
+        "id": 0,
+        "name": "韦驮天"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "主食",
+        "化妆品"
+      ],
+      "loveItem": [
+        {
+          "location": "阿伐利提亚",
+          "name": "巨大蘑菇派"
+        },
+        {
+          "location": "弥先岛",
+          "name": "冰霜迪法露"
+        }
+      ],
+      "name": "韦驮天"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 1,
+        "dmg": 528,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "发生暴击时,HP回复伤害输出的100%",
+        "name": "韦驮天"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 5,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "必杀技命中时,HP回复伤害输出的20%",
+        "name": "韦驮天"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 6,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "韦驮天"
+      }
+    ],
+    "name": "韦驮天"
+  },
+  {
+    "blade": {
+      "element": "暗",
+      "weaponType": "战锤",
+      "fightType": "防御",
+      "draw": false,
+      "coreNum": "2",
+      "firstStage": 4,
+      "attrPlus": "最大HP",
+      "attrPlusValue": 15,
+      "id": 19,
+      "name": "重音"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 19,
+        "id": 0,
+        "name": "诺彭的知识"
+      },
+      {
+        "level": 3,
+        "bladeId": 19,
+        "id": 0,
+        "name": "农学"
+      },
+      {
+        "level": 3,
+        "bladeId": 19,
+        "id": 0,
+        "name": "幸运女孩"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "主食",
+        "化妆品"
+      ],
+      "loveItem": [
+        {
+          "location": "斯佩比亚",
+          "name": "妖精菲尔梅莉的雕像"
+        },
+        {
+          "location": "洛修利亚",
+          "name": "天文占卜大辞典"
+        }
+      ],
+      "name": "重音"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "必杀技造成的仇恨值提升100%",
+        "name": "重音"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 609,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击锁定自己的敌人时,伤害输出提升100%",
+        "name": "重音"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 7,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "重音"
+      }
+    ],
+    "name": "重音"
+  },
+  {
+    "blade": {
+      "element": "水",
+      "weaponType": "长枪",
+      "fightType": "攻击",
+      "draw": false,
+      "coreNum": "1",
+      "firstStage": 5,
+      "attrPlus": "灵巧",
+      "attrPlusValue": 10,
+      "id": 20,
+      "name": "水分"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 20,
+        "id": 0,
+        "name": "水属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 20,
+        "id": 0,
+        "name": "女孩谈话"
+      },
+      {
+        "level": 3,
+        "bladeId": 20,
+        "id": 0,
+        "name": "打捞技术"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "甜品",
+        "书籍"
+      ],
+      "loveItem": [
+        {
+          "location": "洛修利亚",
+          "name": "高级雪花奶酪蛋糕"
+        },
+        {
+          "location": "阿伐利提亚",
+          "name": "卷卷假睫毛"
+        }
+      ],
+      "name": "水分"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 456,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时,敌人对自身的仇恨值减少40%",
+        "name": "水分"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 609,
+        "hitPlus": 25,
+        "critPlus": 0,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "水分"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 9,
+        "dmg": 680,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "从侧面攻击时,伤害输出提升150%",
+        "name": "水分"
+      }
+    ],
+    "name": "水分"
+  },
+  {
+    "blade": {
+      "element": "冰",
+      "weaponType": "刀",
+      "fightType": "防御",
+      "draw": false,
+      "coreNum": "2",
+      "firstStage": 7,
+      "attrPlus": "敏捷",
+      "attrPlusValue": 15,
+      "id": 21,
+      "name": "星织"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 21,
+        "id": 0,
+        "name": "冰属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 21,
+        "id": 0,
+        "name": "集中力"
+      },
+      {
+        "level": 3,
+        "bladeId": 21,
+        "id": 0,
+        "name": "诺彭的知识"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "蔬菜",
+        "桌游"
+      ],
+      "loveItem": [
+        {
+          "location": "洛修利亚",
+          "name": "炖蔬菜浓汤"
+        },
+        {
+          "location": "古拉",
+          "name": "雪花闪亮香水"
+        }
+      ],
+      "name": "星织"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 2,
+        "dmg": 480,
+        "hitPlus": 25,
+        "critPlus": 0,
+        "effect": "必杀技造成的仇恨值提升100%",
+        "name": "星织"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 4,
+        "dmg": 609,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击锁定自己的敌人时,伤害输出提升100%",
+        "name": "星织"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 2,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "暴击伤害提升85%",
+        "name": "星织"
+      }
+    ],
+    "name": "星织"
+  },
+  {
+    "blade": {
+      "element": "冰",
+      "weaponType": "长枪",
+      "fightType": "攻击",
+      "draw": true,
+      "coreNum": "1",
+      "firstStage": 2,
+      "attrPlus": "灵巧",
+      "attrPlusValue": 10,
+      "id": 22,
+      "name": "时叶"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 22,
+        "id": 0,
+        "name": "冰属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 22,
+        "id": 0,
+        "name": "古代文明的知识"
+      },
+      {
+        "level": 3,
+        "bladeId": 22,
+        "id": 0,
+        "name": "骑士道"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "鱼类",
+        "纺织品"
+      ],
+      "loveItem": [
+        {
+          "location": "弗雷斯贝古村庄",
+          "name": "深焙黑咖啡"
+        },
+        {
+          "location": "弗雷斯贝古村庄",
+          "name": "冯斯低音提琴"
+        }
+      ],
+      "name": "时叶"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 16,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "从侧面攻击时,伤害输出提升150%",
+        "name": "时叶"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时,敌人对自身的仇恨值减少40%",
+        "name": "时叶"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 1,
+        "dmg": 680,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "有队友无法战斗时,伤害输出提升150%",
+        "name": "时叶"
+      }
+    ],
+    "name": "时叶"
+  },
+  {
+    "blade": {
+      "element": "雷",
+      "weaponType": "钩爪拳套",
+      "fightType": "回复",
+      "draw": true,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "以太力",
+      "attrPlusValue": 10,
+      "id": 23,
+      "name": "石榴"
+    },
+    "mapSkill": [
+      {
+        "level": 5,
+        "bladeId": 23,
+        "id": 0,
+        "name": "雷属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 23,
+        "id": 0,
+        "name": "开锁"
+      },
+      {
+        "level": 3,
+        "bladeId": 23,
+        "id": 0,
+        "name": "女孩谈话"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "饮料",
+        "化妆品"
+      ],
+      "loveItem": [
+        {
+          "location": "英维迪亚烈",
+          "name": "花香巴伐利亚奶羹"
+        },
+        {
+          "location": "古拉",
+          "name": "海螺假发"
+        }
+      ],
+      "name": "石榴"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击浮空状态的敌人时,伤害输出提升150%",
+        "name": "石榴"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时生成回复瓶(小),有100%的概率生成2个",
+        "name": "石榴"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 1,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "石榴"
+      }
+    ],
+    "name": "石榴"
+  },
+  {
+    "blade": {
+      "element": "暗",
+      "weaponType": "以太炮",
+      "fightType": "攻击",
+      "draw": true,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "以太力",
+      "attrPlusValue": 15,
+      "id": 24,
+      "name": "蓟"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 24,
+        "id": 0,
+        "name": "暗属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 24,
+        "id": 0,
+        "name": "植物学"
+      },
+      {
+        "level": 3,
+        "bladeId": 24,
+        "id": 0,
+        "name": "千里邪眼"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "饮料",
+        "书籍"
+      ],
+      "loveItem": [
+        {
+          "location": "斯佩比亚",
+          "name": "蒸汽雪花凉拌色拉"
+        },
+        {
+          "location": "英维迪亚烈",
+          "name": "蛋白珊瑚口红"
+        }
+      ],
+      "name": "蓟"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 5,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "蓟"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 10,
+        "dmg": 580,
+        "hitPlus": 25,
+        "critPlus": 0,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "蓟"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 3,
+        "dmg": 680,
+        "hitPlus": 50,
+        "critPlus": 25,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "蓟"
+      }
+    ],
+    "name": "蓟"
+  },
+  {
+    "blade": {
+      "element": "冰",
+      "weaponType": "钩爪拳套",
+      "fightType": "回复",
+      "draw": true,
+      "coreNum": "1",
+      "firstStage": 2,
+      "attrPlus": "敏捷",
+      "attrPlusValue": 10,
+      "id": 25,
+      "name": "七冰"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 25,
+        "id": 0,
+        "name": "忍耐力"
+      },
+      {
+        "level": 3,
+        "bladeId": 25,
+        "id": 0,
+        "name": "鱼类学"
+      },
+      {
+        "level": 5,
+        "bladeId": 25,
+        "id": 0,
+        "name": "调谐和声"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "甜品",
+        "化妆品"
+      ],
+      "loveItem": [
+        {
+          "location": "古拉",
+          "name": "托里格鲁特琴"
+        },
+        {
+          "location": "斯佩比亚",
+          "name": "蒸汽管风琴"
+        }
+      ],
+      "name": "七冰"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 2,
+        "dmg": 504,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击命中时生成回复瓶(小),有100%的概率生成2个",
+        "name": "七冰"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 551,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "七冰"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 8,
+        "dmg": 816,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "七冰"
+      }
+    ],
+    "name": "七冰"
+  },
+  {
+    "blade": {
+      "element": "火",
+      "weaponType": "刀",
+      "fightType": "防御",
+      "draw": true,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "最大HP",
+      "attrPlusValue": 20,
+      "id": 26,
+      "name": "纽兹"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 26,
+        "id": 0,
+        "name": "怪力"
+      },
+      {
+        "level": 3,
+        "bladeId": 26,
+        "id": 0,
+        "name": "打捞技术"
+      },
+      {
+        "level": 3,
+        "bladeId": 26,
+        "id": 0,
+        "name": "巨神兽兵器的知识"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "肉类",
+        "乐器"
+      ],
+      "loveItem": [
+        {
+          "location": "斯佩比亚",
+          "name": "军事区域"
+        },
+        {
+          "location": "弥先岛",
+          "name": "活力炒电击里脊肉"
+        }
+      ],
+      "name": "纽兹"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 480,
+        "hitPlus": 25,
+        "critPlus": 0,
+        "effect": "必杀技造成的仇恨值提升100%",
+        "name": "纽兹"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 1,
+        "dmg": 638,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击浮空状态的敌人时,伤害输出提升150%",
+        "name": "纽兹"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 12,
+        "dmg": 816,
+        "hitPlus": 0,
+        "critPlus": 50,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "纽兹"
+      }
+    ],
+    "name": "纽兹"
+  },
+  {
+    "blade": {
+      "element": "地",
+      "weaponType": "钩爪拳套",
+      "fightType": "回复",
+      "draw": true,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "灵巧",
+      "attrPlusValue": 10,
+      "id": 27,
+      "name": "宇迦"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 27,
+        "id": 0,
+        "name": "地属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 27,
+        "id": 0,
+        "name": "鱼类学"
+      },
+      {
+        "level": 3,
+        "bladeId": 27,
+        "id": 0,
+        "name": "芙涅克斯谈话"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "鱼类",
+        "乐器"
+      ],
+      "loveItem": [
+        {
+          "location": "焰的料理",
+          "name": "三色丸子"
+        },
+        {
+          "location": "洛修利亚",
+          "name": "意外之失"
+        }
+      ],
+      "name": "宇迦"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 456,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "宇迦"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 4,
+        "dmg": 609,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时生成回复瓶(小),有100%的概率生成2个",
+        "name": "宇迦"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 5,
+        "dmg": 782,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "宇迦"
+      }
+    ],
+    "name": "宇迦"
+  },
+  {
+    "blade": {
+      "element": "水",
+      "weaponType": "以太炮",
+      "fightType": "攻击",
+      "draw": false,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "以太力",
+      "attrPlusValue": 15,
+      "id": 28,
+      "name": "凛音"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 28,
+        "id": 0,
+        "name": "开锁"
+      },
+      {
+        "level": 3,
+        "bladeId": 28,
+        "id": 0,
+        "name": "女孩谈话"
+      },
+      {
+        "level": 3,
+        "bladeId": 28,
+        "id": 0,
+        "name": "喜欢女孩"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "甜品",
+        "纺织品"
+      ],
+      "loveItem": [
+        {
+          "location": "弥先岛",
+          "name": "阿卡狄亚茶"
+        },
+        {
+          "location": "斯佩比亚",
+          "name": "艾菲姆的铜像"
+        }
+      ],
+      "name": "凛音"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 432,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "HP高于90%时,伤害输出提升150%",
+        "name": "凛音"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 1,
+        "dmg": 551,
+        "hitPlus": 0,
+        "critPlus": 50,
+        "effect": "暴击伤害提升85%",
+        "name": "凛音"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 680,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时,有100%的概率使敌人掉落金币",
+        "name": "凛音"
+      }
+    ],
+    "name": "凛音"
+  },
+  {
+    "blade": {
+      "element": "雷",
+      "weaponType": "弹击球",
+      "fightType": "回复",
+      "draw": false,
+      "coreNum": "2",
+      "firstStage": 5,
+      "attrPlus": "最大HP",
+      "attrPlusValue": 10,
+      "id": 29,
+      "name": "结"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 29,
+        "id": 0,
+        "name": "忍耐力"
+      },
+      {
+        "level": 3,
+        "bladeId": 29,
+        "id": 0,
+        "name": "森林学"
+      },
+      {
+        "level": 5,
+        "bladeId": 29,
+        "id": 0,
+        "name": "饭团专家"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "鱼类",
+        "化妆品"
+      ],
+      "loveItem": [
+        {
+          "location": "阿伐利提亚",
+          "name": "蜜豆牡丹饼"
+        },
+        {
+          "location": "洛修利亚",
+          "name": "托里格雪花围巾"
+        }
+      ],
+      "name": "结"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 2,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "结"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击机械时,伤害输出提升100%",
+        "name": "结"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 2,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击命中时生成回复瓶(小),有100%的概率生成2个",
+        "name": "结"
+      }
+    ],
+    "name": "结"
+  },
+  {
+    "blade": {
+      "element": "风",
+      "weaponType": "钩爪拳套",
+      "fightType": "回复",
+      "draw": true,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "灵巧",
+      "attrPlusValue": 15,
+      "id": 30,
+      "name": "式"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 30,
+        "id": 0,
+        "name": "风属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 30,
+        "id": 0,
+        "name": "观察眼"
+      },
+      {
+        "level": 3,
+        "bladeId": 30,
+        "id": 0,
+        "name": "超古代文明的知识"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "蔬菜",
+        "书籍"
+      ],
+      "loveItem": [
+        {
+          "location": "古拉",
+          "name": "托里格风味腌菜"
+        },
+        {
+          "location": "阿伐利提亚",
+          "name": "利贝拉里塔斯的生活"
+        }
+      ],
+      "name": "式"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时,敌人对自身的仇恨值减少40%",
+        "name": "式"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 3,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "式"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "物理",
+        "attackNum": 5,
+        "dmg": 748,
+        "hitPlus": 50,
+        "critPlus": 50,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "式"
+      }
+    ],
+    "name": "式"
+  },
+  {
+    "blade": {
+      "element": "雷",
+      "weaponType": "战锤",
+      "fightType": "防御",
+      "draw": true,
+      "coreNum": "1",
+      "firstStage": 2,
+      "attrPlus": "最大HP",
+      "attrPlusValue": 15,
+      "id": 31,
+      "name": "雷鼓"
+    },
+    "mapSkill": [
+      {
+        "level": 5,
+        "bladeId": 31,
+        "id": 0,
+        "name": "雷属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 31,
+        "id": 0,
+        "name": "集中力"
+      },
+      {
+        "level": 5,
+        "bladeId": 31,
+        "id": 0,
+        "name": "雷电控制"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "肉类",
+        "乐器"
+      ],
+      "loveItem": [
+        {
+          "location": "阿伐利提亚",
+          "name": "蜂蜜牛奶"
+        },
+        {
+          "location": "斯佩比亚",
+          "name": "金属小鼓"
+        }
+      ],
+      "name": "雷鼓"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 3,
+        "dmg": 456,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击倒地状态的敌人时,伤害输出提升150%",
+        "name": "雷鼓"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 609,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击浮空状态的敌人时,伤害输出提升150%",
+        "name": "雷鼓"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 3,
+        "dmg": 748,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "必杀技造成的仇恨值提升100%",
+        "name": "雷鼓"
+      }
+    ],
+    "name": "雷鼓"
+  },
+  {
+    "blade": {
+      "element": "风",
+      "weaponType": "战斧",
+      "fightType": "攻击",
+      "draw": true,
+      "coreNum": "3",
+      "firstStage": 2,
+      "attrPlus": "力量",
+      "attrPlusValue": 15,
+      "id": 32,
+      "name": "八重切"
+    },
+    "mapSkill": [
+      {
+        "level": 5,
+        "bladeId": 32,
+        "id": 0,
+        "name": "风属性之力"
+      },
+      {
+        "level": 5,
+        "bladeId": 32,
+        "id": 0,
+        "name": "跳跃"
+      },
+      {
+        "level": 5,
+        "bladeId": 32,
+        "id": 0,
+        "name": "怪力"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "肉类",
+        "书籍"
+      ],
+      "loveItem": [
+        {
+          "location": "英维迪亚烈",
+          "name": "炭烤铁火鸟"
+        },
+        {
+          "location": "洛修利亚",
+          "name": "隐匿勇者嘉拉德的肖像画"
+        }
+      ],
+      "name": "八重切"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 2,
+        "dmg": 528,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "八重切"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 1,
+        "dmg": 696,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击倒地状态的敌人时,伤害输出提升150%",
+        "name": "八重切"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 10,
+        "dmg": 850,
+        "hitPlus": 0,
+        "critPlus": 50,
+        "effect": "攻击等级比自己高的敌人时,伤害输出提升100%",
+        "name": "八重切"
+      }
+    ],
+    "name": "八重切"
+  },
+  {
+    "blade": {
+      "element": "风",
+      "weaponType": "战锤",
+      "fightType": "防御",
+      "draw": true,
+      "coreNum": "1",
+      "firstStage": 2,
+      "attrPlus": "敏捷",
+      "attrPlusValue": 15,
+      "id": 33,
+      "name": "伊吹"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 33,
+        "id": 0,
+        "name": "跳跃"
+      },
+      {
+        "level": 3,
+        "bladeId": 33,
+        "id": 0,
+        "name": "昆虫学"
+      },
+      {
+        "level": 3,
+        "bladeId": 33,
+        "id": 0,
+        "name": "健忘症"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "蔬菜",
+        "化妆品"
+      ],
+      "loveItem": [
+        {
+          "location": "古拉",
+          "name": "肉甜椒镶菜"
+        },
+        {
+          "location": "古拉",
+          "name": "雪花闪亮香水"
+        }
+      ],
+      "name": "伊吹"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 504,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "使用必杀技时,牵绊增加100",
+        "name": "伊吹"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 3,
+        "dmg": 638,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "必杀技造成的仇恨值提升100%",
+        "name": "伊吹"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 1,
+        "dmg": 782,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击倒地状态的敌人时,伤害输出提升150%",
+        "name": "伊吹"
+      }
+    ],
+    "name": "伊吹"
+  },
+  {
+    "blade": {
+      "element": "地",
+      "weaponType": "弹击球",
+      "fightType": "回复",
+      "draw": true,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "以太力",
+      "attrPlusValue": 10,
+      "id": 34,
+      "name": "萤"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 34,
+        "id": 0,
+        "name": "地属性之力"
+      },
+      {
+        "level": 5,
+        "bladeId": 34,
+        "id": 0,
+        "name": "植物学"
+      },
+      {
+        "level": 5,
+        "bladeId": 34,
+        "id": 0,
+        "name": "偷心"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "蔬菜",
+        "美术品"
+      ],
+      "loveItem": [
+        {
+          "location": "古拉",
+          "name": "镂空花纹的树叶头巾"
+        },
+        {
+          "location": "洛修利亚",
+          "name": "饼雪团子"
+        }
+      ],
+      "name": "萤"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 3,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击浮空状态的敌人时,伤害输出提升150%",
+        "name": "萤"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 3,
+        "dmg": 609,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "萤"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 782,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击命中时生成回复瓶(小),有100%的概率生成2个",
+        "name": "萤"
+      }
+    ],
+    "name": "萤"
+  },
+  {
+    "blade": {
+      "element": "光",
+      "weaponType": "以太炮",
+      "fightType": "攻击",
+      "draw": true,
+      "coreNum": "3",
+      "firstStage": 2,
+      "attrPlus": "以太力",
+      "attrPlusValue": 20,
+      "id": 35,
+      "name": "KOS-MOS Re:"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 35,
+        "id": 0,
+        "name": "光属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 35,
+        "id": 0,
+        "name": "开锁"
+      },
+      {
+        "level": 3,
+        "bladeId": 35,
+        "id": 0,
+        "name": "高速演算"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "主食",
+        "桌游"
+      ],
+      "loveItem": [
+        {
+          "location": "英维迪亚烈",
+          "name": "剑斗士相扑"
+        },
+        {
+          "location": "英维迪亚烈",
+          "name": "主任咖喱"
+        }
+      ],
+      "name": "KOS-MOS Re:"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 4,
+        "dmg": 528,
+        "hitPlus": 0,
+        "critPlus": 50,
+        "effect": "暴击伤害提升85%",
+        "name": "KOS-MOS Re:"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 4,
+        "dmg": 696,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "KOS-MOS Re:"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 16,
+        "dmg": 884,
+        "hitPlus": 50,
+        "critPlus": 100,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "KOS-MOS Re:"
+      }
+    ],
+    "name": "KOS-MOS Re:"
+  },
+  {
+    "blade": {
+      "element": "雷",
+      "weaponType": "以太炮",
+      "fightType": "攻击",
+      "draw": false,
+      "coreNum": "3",
+      "firstStage": 6,
+      "attrPlus": "力量",
+      "attrPlusValue": 15,
+      "id": 36,
+      "name": "天威"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 36,
+        "id": 0,
+        "name": "雷属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 36,
+        "id": 0,
+        "name": "怪力"
+      },
+      {
+        "level": 5,
+        "bladeId": 36,
+        "id": 0,
+        "name": "失控"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "饮料",
+        "桌游"
+      ],
+      "loveItem": [
+        {
+          "location": "古拉",
+          "name": "月光香蕉牛奶"
+        },
+        {
+          "location": "洛修利亚",
+          "name": "宝石台球"
+        }
+      ],
+      "name": "天威"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 16,
+        "dmg": 528,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "暴击伤害提升85%",
+        "name": "天威"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 696,
+        "hitPlus": 0,
+        "critPlus": 50,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "天威"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "物理",
+        "attackNum": 3,
+        "dmg": 884,
+        "hitPlus": 50,
+        "critPlus": 100,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "天威"
+      }
+    ],
+    "name": "天威"
+  },
+  {
+    "blade": {
+      "element": "冰",
+      "weaponType": "弹击球",
+      "fightType": "回复",
+      "draw": true,
+      "coreNum": "2",
+      "firstStage": 2,
+      "attrPlus": "灵巧",
+      "attrPlusValue": 10,
+      "id": 37,
+      "name": "月"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 37,
+        "id": 0,
+        "name": "冰属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 37,
+        "id": 0,
+        "name": "森林学"
+      },
+      {
+        "level": 3,
+        "bladeId": 37,
+        "id": 0,
+        "name": "冰雕"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "蔬菜",
+        "化妆品"
+      ],
+      "loveItem": [
+        {
+          "location": "洛修利亚",
+          "name": "果肉包"
+        },
+        {
+          "location": "月的冰雕",
+          "name": "洛修利亚冰魔方"
+        }
+      ],
+      "name": "月"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "暴击伤害提升85%",
+        "name": "月"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 580,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击命中时生成回复瓶(小),有100%的概率生成2个",
+        "name": "月"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 748,
+        "hitPlus": 25,
+        "critPlus": 0,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "月"
+      }
+    ],
+    "name": "月"
+  },
+  {
+    "blade": {
+      "element": "火",
+      "weaponType": "战斧",
+      "fightType": "攻击",
+      "draw": true,
+      "coreNum": "3",
+      "firstStage": 2,
+      "attrPlus": "力量",
+      "attrPlusValue": 10,
+      "id": 38,
+      "name": "宫比罗"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 38,
+        "id": 0,
+        "name": "诺彭的知识"
+      },
+      {
+        "level": 3,
+        "bladeId": 38,
+        "id": 0,
+        "name": "古代文明的知识"
+      },
+      {
+        "level": 3,
+        "bladeId": 38,
+        "id": 0,
+        "name": "矿物学"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "鱼类",
+        "美术品"
+      ],
+      "loveItem": [
+        {
+          "location": "洛修利亚",
+          "name": "慢火煎芬芳虾"
+        },
+        {
+          "location": "古拉",
+          "name": "黑色花田"
+        }
+      ],
+      "name": "宫比罗"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 1,
+        "dmg": 480,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击水生类时,伤害输出提升100%",
+        "name": "宫比罗"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 3,
+        "dmg": 638,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "暴击伤害提升85%",
+        "name": "宫比罗"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 2,
+        "dmg": 748,
+        "hitPlus": 25,
+        "critPlus": 25,
+        "effect": "HP低于30%时,伤害输出提升150%",
+        "name": "宫比罗"
+      }
+    ],
+    "name": "宫比罗"
+  },
+  {
+    "blade": {
+      "element": "暗",
+      "weaponType": "战斧",
+      "fightType": "攻击",
+      "draw": true,
+      "coreNum": "3",
+      "firstStage": 10,
+      "attrPlus": "力量",
+      "attrPlusValue": 15,
+      "id": 45,
+      "name": "T-elos Re:"
+    },
+    "mapSkill": [
+      {
+        "level": 5,
+        "bladeId": 45,
+        "id": 0,
+        "name": "暗属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 45,
+        "id": 0,
+        "name": "打捞技术"
+      },
+      {
+        "level": 3,
+        "bladeId": 45,
+        "id": 0,
+        "name": "跳跃"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "乐器",
+        "书籍"
+      ],
+      "loveItem": [
+        {
+          "location": "斯佩比亚帝国",
+          "name": "军队中提琴"
+        },
+        {
+          "location": "阿伐利缇亚商会",
+          "name": "简单打捞说明书"
+        }
+      ],
+      "name": "T-elos Re:"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 2,
+        "dmg": 528,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "暴击伤害提升85%",
+        "name": "T-elos Re:"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 7,
+        "dmg": 696,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击等级比自己高的敌人时,伤害输出提升100%",
+        "name": "T-elos Re:"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 4,
+        "dmg": 884,
+        "hitPlus": 50,
+        "critPlus": 100,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "T-elos Re:"
+      }
+    ],
+    "name": "T-elos Re:"
+  },
+  {
+    "blade": {
+      "element": "光",
+      "weaponType": "战锤",
+      "fightType": "防御",
+      "draw": false,
+      "coreNum": "3",
+      "firstStage": 5,
+      "attrPlus": "敏捷",
+      "attrPlusValue": 15,
+      "id": 39,
+      "name": "花巴斯塔"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 39,
+        "id": 0,
+        "name": "昆虫学"
+      },
+      {
+        "level": 3,
+        "bladeId": 39,
+        "id": 0,
+        "name": "打捞技术"
+      },
+      {
+        "level": 5,
+        "bladeId": 39,
+        "id": 0,
+        "name": "怪力"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "肉类",
+        "桌游"
+      ],
+      "loveItem": [
+        {
+          "location": "古拉",
+          "name": "甜甜小香肠"
+        },
+        {
+          "location": "英维迪亚烈",
+          "name": "诺彭彭庭院"
+        }
+      ],
+      "name": "花巴斯塔"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 7,
+        "dmg": 528,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "必杀技造成的仇恨值提升100%",
+        "name": "花巴斯塔"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 696,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "花巴斯塔"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 7,
+        "dmg": 850,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "攻击锁定自己的敌人时,伤害输出提升100%",
+        "name": "花巴斯塔"
+      }
+    ],
+    "name": "花巴斯塔"
+  },
+  {
+    "blade": {
+      "element": "光",
+      "weaponType": "莫纳德",
+      "fightType": "攻击",
+      "draw": false,
+      "coreNum": "3",
+      "firstStage": 4,
+      "attrPlus": "以太力",
+      "attrPlusValue": 20,
+      "id": 40,
+      "name": "修尔克"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 40,
+        "id": 0,
+        "name": "打捞技术"
+      },
+      {
+        "level": 3,
+        "bladeId": 40,
+        "id": 0,
+        "name": "观察眼"
+      },
+      {
+        "level": 3,
+        "bladeId": 40,
+        "id": 0,
+        "name": "古代文明的知识"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "蔬菜",
+        "书籍"
+      ],
+      "loveItem": [
+        {
+          "location": "焰制作",
+          "name": "真・英雄阿德尔烤饼"
+        },
+        {
+          "location": "斯佩比亚",
+          "name": "斯佩比亚帝国军兵器图鉴"
+        }
+      ],
+      "name": "修尔克"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 528,
+        "hitPlus": 0,
+        "critPlus": 0,
+        "effect": "使用必杀技时有100%的概率,清除敌人的觉醒状态",
+        "name": "修尔克"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 5,
+        "dmg": 696,
+        "hitPlus": 0,
+        "critPlus": 25,
+        "effect": "暴击伤害提升85%",
+        "name": "修尔克"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 850,
+        "hitPlus": 25,
+        "critPlus": 50,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "修尔克"
+      }
+    ],
+    "name": "修尔克"
+  },
+  {
+    "blade": {
+      "element": "风",
+      "weaponType": "小刀",
+      "fightType": "回复",
+      "draw": false,
+      "coreNum": "3",
+      "firstStage": 4,
+      "attrPlus": "力量",
+      "attrPlusValue": 15,
+      "id": 41,
+      "name": "菲奥伦"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 41,
+        "id": 0,
+        "name": "鱼类学"
+      },
+      {
+        "level": 3,
+        "bladeId": 41,
+        "id": 0,
+        "name": "忍耐力"
+      },
+      {
+        "level": 3,
+        "bladeId": 41,
+        "id": 0,
+        "name": "诺彭的知识"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "鱼类",
+        "化妆品"
+      ],
+      "loveItem": [
+        {
+          "location": "洛修利亚",
+          "name": "冰鱼包子浓汤"
+        },
+        {
+          "location": "阿伐利提亚",
+          "name": "润滑化妆水"
+        }
+      ],
+      "name": "菲奥伦"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 2,
+        "dmg": 504,
+        "hitPlus": 25,
+        "critPlus": 25,
+        "effect": "攻击命中时生成回复瓶(小),有100%的概率生成2个",
+        "name": "菲奥伦"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 6,
+        "dmg": 609,
+        "hitPlus": 25,
+        "critPlus": 25,
+        "effect": "发生暴击时,HP回复伤害输出的100%",
+        "name": "菲奥伦"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": false,
+        "attackType": "物理",
+        "attackNum": 2,
+        "dmg": 714,
+        "hitPlus": 25,
+        "critPlus": 25,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "菲奥伦"
+      }
+    ],
+    "name": "菲奥伦"
+  },
+  {
+    "blade": {
+      "element": "火",
+      "weaponType": "弹击球",
+      "fightType": "回复",
+      "draw": false,
+      "coreNum": "3",
+      "firstStage": 2,
+      "attrPlus": "以太力",
+      "attrPlusValue": 20,
+      "id": 42,
+      "name": "火花"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 42,
+        "id": 0,
+        "name": "激辣料理"
+      },
+      {
+        "level": 3,
+        "bladeId": 42,
+        "id": 0,
+        "name": "农学"
+      },
+      {
+        "level": 3,
+        "bladeId": 42,
+        "id": 0,
+        "name": "忍耐力"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "主食",
+        "甜品"
+      ],
+      "loveItem": [
+        {
+          "location": "焰制作",
+          "name": "阳光派"
+        },
+        {
+          "location": "阿伐利缇亚商会",
+        "name": " 辛辣尖嘴龙奶油浓汤"
+        }
+      ],
+      "name": "火花"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 7,
+        "dmg": 528,
+        "hitPlus": 25,
+        "critPlus": 25,
+        "effect": "攻击命中时生成回复瓶(小),有100%的概率生成2个",
+        "name": "火花"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 10,
+        "dmg": 696,
+        "hitPlus": 25,
+        "critPlus": 50,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的50%",
+        "name": "火花"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 4,
+        "dmg": 850,
+        "hitPlus": 25,
+        "critPlus": 100,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "火花"
+      }
+    ],
+    "name": "火花"
+  },
+  {
+    "blade": {
+      "element": "光",
+      "weaponType": "打刀",
+      "fightType": "防御",
+      "draw": false,
+      "coreNum": "3",
+      "firstStage": 2,
+      "attrPlus": "敏捷",
+      "attrPlusValue": 20,
+      "id": 43,
+      "name": "神八"
+    },
+    "mapSkill": [
+      {
+        "level": 5,
+        "bladeId": 43,
+        "id": 0,
+        "name": "光属性之力"
+      },
+      {
+        "level": 3,
+        "bladeId": 43,
+        "id": 0,
+        "name": "森林学"
+      },
+      {
+        "level": 3,
+        "bladeId": 43,
+        "id": 0,
+        "name": "古代文明的知识"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "饮品",
+        "桌游"
+      ],
+      "loveItem": [
+        {
+          "location": "阿伐利提亚",
+          "name": "闪亮果汁"
+        },
+        {
+          "location": "阿伐利提亚",
+          "name": "诺彭棋"
+        }
+      ],
+      "name": "神八"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 1,
+        "dmg": 768,
+        "hitPlus": 25,
+        "critPlus": 25,
+        "effect": "攻击命中时队伍全员的HP回复,伤害输出的10%",
+        "name": "神八"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 5,
+        "dmg": 1102,
+        "hitPlus": 50,
+        "critPlus": 50,
+        "effect": "使用必杀技时,有100%的概率,消除敌人的愤怒状态",
+        "name": "神八"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 13,
+        "dmg": 1428,
+        "hitPlus": 100,
+        "critPlus": 100,
+        "effect": "使用必杀技时,付与御刃者残像,可回避6次攻击",
+        "name": "神八"
+      }
+    ],
+    "name": "神八"
+  },
+  {
+    "blade": {
+      "element": "暗",
+      "weaponType": "双剑",
+      "fightType": "攻击",
+      "draw": false,
+      "coreNum": "3",
+      "firstStage": 4,
+      "attrPlus": "以太力",
+      "attrPlusValue": 20,
+      "id": 44,
+      "name": "艾尔玛"
+    },
+    "mapSkill": [
+      {
+        "level": 3,
+        "bladeId": 44,
+        "id": 0,
+        "name": "观察眼"
+      },
+      {
+        "level": 3,
+        "bladeId": 44,
+        "id": 0,
+        "name": "集中力"
+      },
+      {
+        "level": 3,
+        "bladeId": 44,
+        "id": 0,
+        "name": "开锁"
+      }
+    ],
+    "bladeLove": {
+      "loveType": [
+        "鱼类",
+        "艺术品"
+      ],
+      "loveItem": [
+        {
+          "location": "弥先岛",
+          "name": "辟魔曼陀罗毛巾"
+        },
+        {
+          "location": "弥先岛",
+          "name": "水管吸管果冰霜"
+        }
+      ],
+      "name": "艾尔玛"
+    },
+    "superSkill": [
+      {
+        "level": 1,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 4,
+        "dmg": 552,
+        "hitPlus": 25,
+        "critPlus": 25,
+        "effect": "攻击等级比自己高的敌人时,伤害输出提升100%",
+        "name": "艾尔玛"
+      },
+      {
+        "level": 2,
+        "ignoreDefense": false,
+        "attackType": "以太",
+        "attackNum": 14,
+        "dmg": 725,
+        "hitPlus": 25,
+        "critPlus": 50,
+        "effect": "从背面攻击时,伤害输出提升150%",
+        "name": "艾尔玛"
+      },
+      {
+        "level": 3,
+        "ignoreDefense": true,
+        "attackType": "以太",
+        "attackNum": 16,
+        "dmg": 918,
+        "hitPlus": 50,
+        "critPlus": 100,
+        "effect": "攻击时有100%的概率使格挡无效",
+        "name": "艾尔玛"
+      }
+    ],
+    "name": "艾尔玛"
+  }
+]

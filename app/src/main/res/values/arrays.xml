@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blade_love_sort">
+        <item>默认</item>
+        <item>异刃</item>
+        <item>名称</item>
+        <item>种类</item>
+        <item>地点</item>
+    </string-array>
+
+    <string-array name="blade_sort">
+        <item>默认</item>
+        <item>出场时间</item>
+        <item>武器类型</item>
+        <item>战斗类型</item>
+        <item>属性</item>
+        <item>加成</item>
+        <item>获取类型</item>
+    </string-array>
+</resources>
