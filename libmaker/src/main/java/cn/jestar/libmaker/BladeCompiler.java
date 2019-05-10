@@ -16,6 +16,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import cn.jestar.library.bean.BaseItem;
+import cn.jestar.library.bean.Monster;
 import cn.jestar.library.bean.blade.Blade;
 import cn.jestar.library.bean.blade.BladeLove;
 import cn.jestar.library.bean.blade.BladeSuperSkill;
@@ -201,5 +202,32 @@ public class BladeCompiler extends Compiler {
         Matcher matcher = Pattern.compile(regex).matcher(s);
         matcher.find();
         return matcher.group();
+    }
+
+    public void compileMonster(File file, String name) throws IOException {
+        compile(file, name, new Creator<Monster>() {
+            @Override
+            public void create(String text) {
+                Monster monster = createMonster(text);
+                add(monster);
+                monster.setId(getList().size());
+            }
+        });
+    }
+
+    private Monster createMonster(String text) {
+        String[] strings = text.split("-");
+        Monster monster = new Monster();
+        monster.setLocation(strings[0]);
+        monster.setName(strings[1]);
+        monster.setLevel(Integer.parseInt(strings[2]));
+        monster.setArea(strings[3]);
+        monster.setTransPoint(strings[4]);
+        monster.setCondition(strings[5]);
+        monster.setCore(strings[6]);
+        monster.setSubCores(strings[7]);
+        monster.setWafer(strings[8]);
+        monster.setJewelrys(strings[9]);
+        return monster;
     }
 }

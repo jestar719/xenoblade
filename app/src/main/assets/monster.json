@@ -1,0 +1,1343 @@
+[
+  {
+    "level": 8,
+    "location": "古拉",
+    "area": "上层右半身",
+    "transPoint": "晚风草原",
+    "core": "普通",
+    "wafer": "紫水晶晶片",
+    "jewelrys": [
+      "回忆吊坠",
+      "兔怪项圈"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 1,
+    "name": "赚小零花的洛特"
+  },
+  {
+    "level": 12,
+    "location": "古拉",
+    "area": "上层右半身",
+    "transPoint": "格尔德亚大平原",
+    "core": "普通",
+    "jewelrys": [
+      "狼兽鞋"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 2,
+    "name": "孤高的巴巴里"
+  },
+  {
+    "level": 14,
+    "location": "古拉",
+    "area": "巨神兽战舰",
+    "transPoint": "第一区单人牢房",
+    "core": "普通",
+    "jewelrys": [
+      "急速时钟"
+    ],
+    "id": 3,
+    "name": "惩罚部队的梵加"
+  },
+  {
+    "level": 18,
+    "location": "古拉",
+    "area": "上层左半身",
+    "transPoint": "梅纳斯左肩区",
+    "core": "普通",
+    "jewelrys": [
+      "丰饶项饰"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 4,
+    "name": "狙击的格斯"
+  },
+  {
+    "level": 20,
+    "location": "古拉",
+    "area": "下层",
+    "transPoint": "马斯拉之泉",
+    "core": "普通",
+    "blades": [
+      "八重切",
+      "力男"
+    ],
+    "id": 5,
+    "name": "雷击的吉吉"
+  },
+  {
+    "level": 23,
+    "location": "英维迪亚",
+    "area": "头部",
+    "transPoint": "酸液食管",
+    "core": "稀有",
+    "jewelrys": [
+      "巫女护符"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 6,
+    "name": "叩击的阿兹玛"
+  },
+  {
+    "level": 23,
+    "location": "英维迪亚",
+    "area": "腹部",
+    "transPoint": "崩溃的岩门",
+    "core": "稀有",
+    "jewelrys": [
+      "迷彩兜帽"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 7,
+    "name": "骑兵伊纳斯"
+  },
+  {
+    "level": 24,
+    "location": "英维迪亚",
+    "area": "腹部",
+    "transPoint": "米奈斯阶地",
+    "core": "稀有",
+    "wafer": "紫水晶晶片",
+    "jewelrys": [
+      "极彩鸟羽饰"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 8,
+    "name": "灵巧的萨基"
+  },
+  {
+    "level": 25,
+    "location": "古拉",
+    "area": "上层右半身",
+    "transPoint": "穿岩之门",
+    "core": "稀有",
+    "jewelrys": [
+      "长枪附件"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 9,
+    "name": "先锋梅尔金"
+  },
+  {
+    "level": 26,
+    "location": "英维迪亚",
+    "area": "腹部",
+    "transPoint": "法凌水域",
+    "core": "稀有",
+    "jewelrys": [
+      "黄金齿轮项圈"
+    ],
+    "id": 10,
+    "name": "晴天散步的玛德雷斯"
+  },
+  {
+    "level": 27,
+    "location": "古拉",
+    "area": "巨神兽战舰",
+    "transPoint": "第二区单人牢房",
+    "core": "稀有",
+    "wafer": "磁力晶片",
+    "jewelrys": [
+      "蒸汽腰带"
+    ],
+    "blades": [
+      "T-elos Re:"
+    ],
+    "id": 11,
+    "name": "咎枪的波尔夫"
+  },
+  {
+    "level": 28,
+    "location": "古拉",
+    "area": "上层右半身",
+    "transPoint": "克雷尔湖",
+    "condition": "雨",
+    "core": "稀有",
+    "jewelrys": [
+      "工具背心"
+    ],
+    "id": 12,
+    "name": "爪伤痕的萨尔曼"
+  },
+  {
+    "level": 30,
+    "location": "斯佩比亚",
+    "area": "下层",
+    "transPoint": "遗忘封底",
+    "core": "稀有",
+    "jewelrys": [
+      "突击石"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 13,
+    "name": "鬼壳的铠甲"
+  },
+  {
+    "level": 31,
+    "location": "斯佩比亚",
+    "area": "上层",
+    "transPoint": "采掘场电梯前",
+    "core": "稀有",
+    "jewelrys": [
+      "铁质围额"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 14,
+    "name": "刺青的斯帕罗"
+  },
+  {
+    "level": 32,
+    "location": "斯佩比亚",
+    "area": "上层",
+    "transPoint": "杰利德恩德高地",
+    "core": "稀有",
+    "id": 15,
+    "blades": [
+      "八重切"
+    ],
+    "name": "食人的多兰"
+  },
+  {
+    "level": 33,
+    "location": "斯佩比亚",
+    "area": "下层",
+    "transPoint": "艾格尔废栈桥",
+    "core": "稀有",
+    "jewelrys": [
+      "护臂"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 16,
+    "name": "狩猎刀具的艾德蒙"
+  },
+  {
+    "level": 33,
+    "location": "斯佩比亚",
+    "area": "上层",
+    "transPoint": "艾尔格利亚旧街区",
+    "core": "稀有",
+    "jewelrys": [
+      "骑士勋章"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 17,
+    "name": "折颈的伯恩"
+  },
+  {
+    "level": 33,
+    "location": "斯佩比亚",
+    "area": "上层",
+    "transPoint": "德里塞拉医务室",
+    "core": "稀有",
+    "wafer": "磁力晶片",
+    "jewelrys": [
+      "贝壳鞋"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 18,
+    "name": "狩猎罪行的史雷普"
+  },
+  {
+    "level": 38,
+    "location": "利贝拉里塔斯",
+    "area": "里吉特海域",
+    "transPoint": "巴尔德塔斯岛",
+    "condition": "极光",
+    "core": "稀有",
+    "jewelrys": [
+      "贤者护符"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 19,
+    "name": "翠玉的帕洛特"
+  },
+  {
+    "level": 38,
+    "location": "利贝拉里塔斯",
+    "area": "里吉特海域",
+    "transPoint": "达拉姆岛",
+    "core": "稀有",
+    "jewelrys": [
+      "钉刺护肩"
+    ],
+    "subCores": [
+      "属性球一击破坏"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 20,
+    "name": "豪夺的基尼"
+  },
+  {
+    "level": 39,
+    "location": "利贝拉里塔斯",
+    "area": "弥先海域",
+    "transPoint": "伊谢巴港",
+    "core": "稀有",
+    "wafer": "五芒晶片",
+    "jewelrys": [
+      "加速护腕"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 21,
+    "name": "天轮拳的里奇"
+  },
+  {
+    "level": 40,
+    "location": "斯佩比亚",
+    "area": "上层",
+    "transPoint": "第2采掘场入口",
+    "core": "稀有",
+    "wafer": "马达晶片",
+    "condition": "非沙尘天",
+    "jewelrys": [
+      "领悟香水"
+    ],
+    "blades": [
+      "T-elos Re:"
+    ],
+    "id": 22,
+    "name": "试刀杀人的巴弗梅"
+  },
+  {
+    "level": 41,
+    "location": "英维迪亚",
+    "area": "腹部",
+    "transPoint": "珊瑚圣域",
+    "core": "稀有",
+    "jewelrys": [
+      "领悟香水",
+      "豪杰护肩"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 23,
+    "name": "苍天的来基奥斯"
+  },
+  {
+    "level": 41,
+    "location": "洛修利亚",
+    "area": "上层",
+    "transPoint": "圣迹冰洞",
+    "condition": "夜",
+    "core": "稀有",
+    "wafer": "马达晶片",
+    "jewelrys": [
+      "慈爱项饰"
+    ],
+    "id": 24,
+    "name": "深绿的奥斯卡"
+  },
+  {
+    "level": 42,
+    "location": "洛修利亚",
+    "area": "上层",
+    "transPoint": "阿姆雷特支柱",
+    "core": "稀有",
+    "jewelrys": [
+      "冰纹围额"
+    ],
+    "id": 25,
+    "name": "碧眼的拉尔夫"
+  },
+  {
+    "level": 42,
+    "location": "洛修利亚",
+    "area": "上层",
+    "transPoint": "卢米娜利亚支柱",
+    "core": "稀有",
+    "wafer": "橄榄无球陨石晶片",
+    "jewelrys": [
+      "霸王眼罩"
+    ],
+    "id": 26,
+    "name": "春雨的艾斯卡特"
+  },
+  {
+    "level": 42,
+    "location": "洛修利亚",
+    "area": "下层",
+    "transPoint": "比比鼠的洞穴",
+    "core": "稀有",
+    "jewelrys": [],
+    "id": 27,
+    "name": "觉醒的莫里斯"
+  },
+  {
+    "level": 43,
+    "location": "洛修利亚",
+    "area": "下层",
+    "transPoint": "血染洞窟",
+    "core": "稀有",
+    "jewelrys": [
+      "翡翠背心"
+    ],
+    "blades": [
+      "花巴斯塔"
+    ],
+    "id": 28,
+    "name": "豪腕的瓦古"
+  },
+  {
+    "level": 44,
+    "location": "洛修利亚",
+    "area": "上层",
+    "transPoint": "崩溃的旧支柱都市",
+    "core": "稀有",
+    "jewelrys": [
+      "爆裂标志"
+    ],
+    "id": 29,
+    "name": "豪杰的斯特朗古"
+  },
+  {
+    "level": 45,
+    "location": "古拉",
+    "area": "上层右半身",
+    "transPoint": "克雷尔湖",
+    "core": "稀有",
+    "jewelrys": [
+      "蓝宝石"
+    ],
+    "id": 30,
+    "name": "乱吃的加利尔"
+  },
+  {
+    "level": 45,
+    "location": "利贝拉里塔斯",
+    "area": "弥先海域",
+    "transPoint": "海胆怪岛",
+    "core": "稀有",
+    "jewelrys": [
+      "恢复标志"
+    ],
+    "blades": [
+      "式"
+    ],
+    "id": 31,
+    "name": "不动如山的曼塔斯"
+  },
+  {
+    "level": 46,
+    "location": "洛修利亚",
+    "area": "上层",
+    "transPoint": "卢米娜利亚支柱",
+    "core": "稀有",
+    "wafer": "蛋白石晶片",
+    "condition": "杀死春雨的艾斯卡特后会在墓碑再往下一层捡到寄给秋雨的信，捡到信后的夜晚秋雨才会在春雨墓前出现",
+    "jewelrys": [
+      "生物护臂"
+    ],
+    "id": 32,
+    "name": "秋雨的卡希尔德"
+  },
+  {
+    "level": 46,
+    "location": "洛修利亚",
+    "area": "下层",
+    "transPoint": "玄武大雪原",
+    "core": "稀有",
+    "jewelrys": [
+      "领悟香水"
+    ],
+    "id": 33,
+    "name": "魔法使比利"
+  },
+  {
+    "level": 46,
+    "location": "艾尔皮斯灵洞",
+    "area": "上层",
+    "transPoint": "拉比亚地下水流",
+    "core": "稀有",
+    "jewelrys": [
+      "将军勋章"
+    ],
+    "id": 34,
+    "name": "挖洞的黑普利"
+  },
+  {
+    "level": 47,
+    "location": "利贝拉里塔斯",
+    "area": "里吉特海域",
+    "transPoint": "传承之盆景",
+    "core": "稀有",
+    "jewelrys": [
+      "钻盾附件"
+    ],
+    "blades": [
+      "光",
+      "蓟"
+    ],
+    "id": 35,
+    "name": "迷宫的修特罗姆"
+  },
+  {
+    "level": 47,
+    "location": "艾尔皮斯灵洞",
+    "area": "中层",
+    "transPoint": "中腹 灵泉街广场遗址",
+    "core": "稀有",
+    "jewelrys": [
+      "恢复标志"
+    ],
+    "id": 36,
+    "name": "死臭的本加"
+  },
+  {
+    "level": 48,
+    "location": "英维迪亚",
+    "area": "腹部",
+    "transPoint": "采石场遗址",
+    "core": "稀有",
+    "jewelrys": [
+      "英杰手套"
+    ],
+    "id": 37,
+    "name": "机动迫击炮的巴兹"
+  },
+  {
+    "level": 48,
+    "location": "利贝拉里塔斯",
+    "area": "云海隧道",
+    "transPoint": "路德云海道",
+    "core": "稀有",
+    "jewelrys": [
+      "刺客鞋"
+    ],
+    "blades": [
+      "迦具土",
+      "月"
+    ],
+    "id": 38,
+    "name": "美食的洛奇"
+  },
+  {
+    "level": 48,
+    "location": "利贝拉里塔斯",
+    "area": "弥先海域",
+    "transPoint": "神渡之岛",
+    "core": "稀有",
+    "jewelrys": [
+      "碎击石"
+    ],
+    "blades": [
+      "玛瑙",
+      "纽兹"
+    ],
+    "id": 39,
+    "name": "极乐的斯堪的纳维亚 "
+  },
+  {
+    "level": 48,
+    "location": "艾尔皮斯灵洞",
+    "area": "中层",
+    "transPoint": "艾尔皮斯大空洞",
+    "core": "稀有",
+    "wafer": "蛋白石晶片",
+    "jewelrys": [
+      "女神项圈"
+    ],
+    "id": 40,
+    "name": "历战的莫宁古"
+  },
+  {
+    "level": 49,
+    "location": "利贝拉里塔斯",
+    "area": "里吉特海域",
+    "transPoint": "遗迹沉睡之岛",
+    "core": "稀有",
+    "jewelrys": [
+      "水晶耳钉"
+    ],
+    "blades": [
+      "八重切",
+      "彩歌",
+      "宇迦"
+    ],
+    "id": 41,
+    "name": "疾风的王冠虾"
+  },
+  {
+    "level": 50,
+    "location": "艾尔皮斯灵洞",
+    "area": "中层",
+    "transPoint": "奉纳大厅",
+    "core": "稀有",
+    "jewelrys": [
+      "碎击石"
+    ],
+    "blades": [
+      "八重切",
+      "玛瑙",
+      "红莲"
+    ],
+    "id": 42,
+    "name": "蛊惑的玛丽琳"
+  },
+  {
+    "level": 51,
+    "location": "洛修利亚",
+    "area": "下层",
+    "transPoint": "火鸡人仙境",
+    "core": "稀有",
+    "jewelrys": [
+      "幻鸟羽饰"
+    ],
+    "id": 43,
+    "name": "英杰的阿尔金"
+  },
+  {
+    "level": 51,
+    "location": "艾尔皮斯灵洞",
+    "area": "下层",
+    "transPoint": "最下层 大列柱室",
+    "core": "稀有",
+    "jewelrys": [
+      "黑带"
+    ],
+    "blades": [
+      "八重切",
+      "玛瑙"
+    ],
+    "id": 44,
+    "name": "圣枪的阿司匹德克隆"
+  },
+  {
+    "level": 53,
+    "location": "莫尔斯断崖",
+    "area": "上层",
+    "transPoint": "莫尔斯大瀑布墙",
+    "core": "稀有",
+    "wafer": "多边形晶片",
+    "jewelrys": [
+      "拳法家护腕"
+    ],
+    "blades": [
+      "八重切",
+      "白虎",
+      "绵津见",
+      "斩铁"
+    ],
+    "id": 45,
+    "name": "机关枪的皮特"
+  },
+  {
+    "level": 54,
+    "location": "洛修利亚",
+    "area": "上层",
+    "transPoint": "空中圣座",
+    "core": "史诗",
+    "wafer": "顽火辉石晶片",
+    "condition": "过冰桥的洞内",
+    "jewelrys": [
+      "聚酯纤维鞋"
+    ],
+    "id": 46,
+    "name": "灼热的裘尔托"
+  },
+  {
+    "level": 54,
+    "location": "莫尔斯断崖",
+    "area": "上层",
+    "transPoint": "信徒小路",
+    "core": "史诗",
+    "wafer": "顽火辉石晶片",
+    "blades": [
+      "八重切",
+      "婆娑罗",
+      "弁庆"
+    ],
+    "id": 47,
+    "name": "邪眼的尼普拉"
+  },
+  {
+    "level": 55,
+    "location": "檀佩兰提亚",
+    "area": "中央平原",
+    "transPoint": "斯佩比亚驻地附近",
+    "core": "史诗",
+    "jewelrys": [
+      "陶瓷腰带"
+    ],
+    "blades": [
+      "八重切",
+      "时叶"
+    ],
+    "id": 48,
+    "name": "暴走火车头布尔"
+  },
+  {
+    "level": 56,
+    "location": "莫尔斯之地",
+    "area": "街区",
+    "transPoint": "崩塌的道路",
+    "core": "史诗",
+    "jewelrys": [
+      "彗星项圈"
+    ],
+    "blades": [
+      "八重切",
+      "水分"
+    ],
+    "subCores": [
+      "暗属性伤害减少5"
+    ],
+    "id": 49,
+    "name": "食魂的芙兰"
+  },
+  {
+    "level": 57,
+    "location": "莫尔斯之地",
+    "area": "街区",
+    "transPoint": "紧急避难楼",
+    "core": "史诗",
+    "jewelrys": [
+      "英雄护腕"
+    ],
+    "blades": [
+      "八重切",
+      "时叶"
+    ],
+    "id": 50,
+    "name": "怨念的赤核"
+  },
+  {
+    "level": 58,
+    "location": "檀佩兰提亚",
+    "area": "中央平原",
+    "transPoint": "瓦拉克本阵",
+    "core": "史诗",
+    "jewelrys": [
+      "纳米金属护臂"
+    ],
+    "blades": [
+      "八重切",
+      "伊吹"
+    ],
+    "id": 51,
+    "name": "残忍王格尔梅斯"
+  },
+  {
+    "level": 58,
+    "location": "莫尔斯断崖",
+    "area": "下层",
+    "transPoint": "奥尔山谷",
+    "core": "史诗",
+    "jewelrys": [
+      "量子围巾"
+    ],
+    "blades": [
+      "八重切",
+      "光",
+      "结"
+    ],
+    "id": 52,
+    "name": "绯红色的隆基凯普斯"
+  },
+  {
+    "level": 58,
+    "location": "莫尔斯之地",
+    "area": "腐朽的巨神兽",
+    "transPoint": "胎中横穴",
+    "core": "史诗",
+    "wafer": "镜物质晶片",
+    "jewelrys": [
+      "纤维帽"
+    ],
+    "blades": [
+      "八重切",
+      "蓟"
+    ],
+    "id": 53,
+    "name": "宿主杀手阿普拉卡斯"
+  },
+  {
+    "level": 58,
+    "location": "世界树",
+    "area": "下层",
+    "transPoint": "天空桥",
+    "core": "史诗",
+    "jewelrys": [
+      "前卫奖章"
+    ],
+    "blades": [
+      "花JD"
+    ],
+    "id": 54,
+    "name": "暴走的雷卡德"
+  },
+  {
+    "level": 60,
+    "location": "洛修利亚",
+    "area": "下层",
+    "transPoint": "戴克莱斯祭坛丘陵",
+    "core": "史诗",
+    "jewelrys": [
+      "光学围额"
+    ],
+    "subCores": [
+      "以心传心5",
+      "会心提升5",
+      "必杀技Lv2强化5"
+    ],
+    "blades": [
+      "八重切",
+      "星织"
+    ],
+    "id": 55,
+    "name": "铁壁的莱纳"
+  },
+  {
+    "level": 62,
+    "location": "斯佩比亚",
+    "area": "上层",
+    "transPoint": "布琉纳库占领地",
+    "core": "史诗",
+    "wafer": "白银晶片",
+    "jewelrys": [
+      "高功能电子眼罩"
+    ],
+    "subCores": [
+      "干扰5",
+      "飞行猎人5",
+      "融合连击强化5"
+    ],
+    "blades": [
+      "八重切"
+    ],
+    "id": 56,
+    "name": "流离的雷诺鲁兹"
+  },
+  {
+    "level": 62,
+    "location": "檀佩兰提亚",
+    "area": "中央平原",
+    "transPoint": "扎塔利斯之泉",
+    "core": "史诗",
+    "jewelrys": [
+      "纳米金属护臂"
+    ],
+    "subCores": [
+      "浮空抗性5",
+      "集中回避5",
+      "武技仇恨值降低5"
+    ],
+    "blades": [
+      "八重切",
+      "神威",
+      "雄黄"
+    ],
+    "id": 57,
+    "name": "黑翼的苏卡尔"
+  },
+  {
+    "level": 62,
+    "location": "世界树",
+    "area": "下层",
+    "transPoint": "第二层水星天 中央甲板",
+    "core": "史诗",
+    "jewelrys": [
+      "高功能电子眼罩"
+    ],
+    "blades": [
+      "式"
+    ],
+    "id": 58,
+    "name": "第六世代方程式"
+  },
+  {
+    "level": 62,
+    "location": "世界树",
+    "area": "下层",
+    "transPoint": "废弃物仓库附近",
+    "core": "史诗",
+    "jewelrys": [
+      "碳素手套"
+    ],
+    "blades": [
+      "纽兹"
+    ],
+    "id": 59,
+    "name": "暴走的库斯迪克"
+  },
+  {
+    "level": 64,
+    "location": "世界树",
+    "area": "下层",
+    "transPoint": "数据管理室",
+    "core": "史诗",
+    "jewelrys": [
+      "古代纹章旗"
+    ],
+    "id": 60,
+    "name": "第六世代幻象"
+  },
+  {
+    "level": 65,
+    "location": "英维迪亚",
+    "area": "头部",
+    "transPoint": "龙之胃",
+    "core": "史诗",
+    "wafer": "黄金晶片",
+    "jewelrys": [
+      "量子围巾"
+    ],
+    "subCores": [
+      "室内攻击提升5",
+      "干扰5",
+      "阿鲁斯猎人5"
+    ],
+    "blades": [
+      "重音"
+    ],
+    "id": 61,
+    "name": "吸血贵妇人玛蒙"
+  },
+  {
+    "level": 65,
+    "location": "世界树",
+    "area": "中层",
+    "transPoint": "第七外围机场",
+    "core": "史诗",
+    "wafer": "正电子晶片",
+    "jewelrys": [
+      "血腥法球"
+    ],
+    "blades": [
+      "八重切",
+      "伊吹"
+    ],
+    "id": 62,
+    "name": "教皇直属神兽战机"
+  },
+  {
+    "level": 66,
+    "location": "世界树",
+    "area": "中层",
+    "transPoint": "第七外围防卫塔",
+    "core": "史诗",
+    "jewelrys": [
+      "再生护身符"
+    ],
+    "blades": [
+      "宇迦"
+    ],
+    "id": 63,
+    "name": "暴走的妖精"
+  },
+  {
+    "level": 66,
+    "location": "世界树",
+    "area": "中层",
+    "transPoint": "第七外围机场",
+    "core": "史诗",
+    "wafer": "光子晶片",
+    "jewelrys": [
+      "英雄护腕"
+    ],
+    "blades": [
+      "八重切",
+      "白虎"
+    ],
+    "id": 64,
+    "name": "教皇直属魔导战车"
+  },
+  {
+    "level": 66,
+    "location": "世界树",
+    "area": "中层",
+    "transPoint": "第三层金星天",
+    "core": "史诗",
+    "wafer": "强子晶片",
+    "jewelrys": [
+      "利剑附件"
+    ],
+    "blades": [
+      "花巴斯塔"
+    ],
+    "id": 65,
+    "name": "第六世代暴动者"
+  },
+  {
+    "level": 75,
+    "location": "古拉",
+    "area": "上层右半身",
+    "transPoint": "飞沫洞窟",
+    "core": "史诗",
+    "wafer": "森林晶片",
+    "jewelrys": [],
+    "subCores": [
+      "后攻牵绊5",
+      "夜间命中提升5",
+      "偷袭强化5"
+    ],
+    "id": 66,
+    "name": "食蛙的史尼克"
+  },
+  {
+    "level": 78,
+    "location": "英维迪亚",
+    "area": "腹部",
+    "transPoint": "罗斯卡的大洞",
+    "condition": "樱花",
+    "core": "史诗",
+    "wafer": "锆石晶片",
+    "jewelrys": [
+      "圣女项饰"
+    ],
+    "subCores": [
+      "室外攻击提升5",
+      "牵绊MAX回避5",
+      "昆虫猎人5"
+    ],
+    "blades": [
+      "T-elos Re:"
+    ],
+    "id": 67,
+    "name": "神使阿库泰昂"
+  },
+  {
+    "level": 80,
+    "location": "英维迪亚",
+    "area": "腹部",
+    "transPoint": "罪人的岩窟要塞",
+    "core": "史诗",
+    "wafer": "轮轴晶片",
+    "jewelrys": [
+      "翡翠护肩"
+    ],
+    "subCores": [
+      "仇恨值攻击提升5",
+      "武技仇恨值上升5"
+    ],
+    "id": 68,
+    "name": "修罗王史雷德"
+  },
+  {
+    "level": 81,
+    "location": "古拉",
+    "area": "上层右半身",
+    "transPoint": "晚风草原",
+    "core": "史诗",
+    "wafer": "推进器晶片",
+    "jewelrys": [
+      "激情之绳"
+    ],
+    "subCores": [
+      "高HP攻击提升5",
+      "必杀技Lv3强化5"
+    ],
+    "id": 69,
+    "name": "看守地盘的巴尔巴罗萨"
+  },
+  {
+    "level": 86,
+    "location": "斯佩比亚",
+    "area": "下层",
+    "transPoint": "汉扎格荒野",
+    "core": "史诗",
+    "wafer": "螺旋晶片",
+    "jewelrys": [
+      "陶瓷腰带"
+    ],
+    "subCores": [
+      "野兽猎人5",
+      "牵绊MAX回避5",
+      "紧急格挡5"
+    ],
+    "id": 70,
+    "name": "钢铁铠甲的戴伊尔"
+  },
+  {
+    "level": 90,
+    "location": "古拉",
+    "area": "上层右半身",
+    "transPoint": "诺奇路亚森林区",
+    "core": "史诗",
+    "wafer": "无球陨石晶片",
+    "jewelrys": [
+      "暴击标志"
+    ],
+    "subCores": [
+      "偷袭强化5",
+      "先发牵绊5"
+    ],
+    "blades": [
+      "花巴斯塔"
+    ],
+    "id": 71,
+    "name": "不动的岗扎雷斯"
+  },
+  {
+    "level": 94,
+    "location": "檀佩兰提亚",
+    "area": "中央平原",
+    "transPoint": "钢刺豹本营",
+    "core": "史诗",
+    "wafer": "无球陨石晶片",
+    "jewelrys": [
+      "星星魔方"
+    ],
+    "subCores": [
+      "移动治疗5",
+      "白天命中提升5",
+      "融合连击强化5"
+    ],
+    "id": 72,
+    "name": "暗杀的古力布"
+  },
+  {
+    "level": 95,
+    "location": "檀佩兰提亚",
+    "area": "中央平原",
+    "transPoint": "斯佩比亚驻地附近",
+    "core": "史诗",
+    "wafer": "无球陨石晶片",
+    "jewelrys": [
+      "钛制背心"
+    ],
+    "subCores": [
+      "伤害治疗5",
+      "开幕武技5",
+      "破防抗性5"
+    ],
+    "id": 73,
+    "name": "狮子龙萨乌扎德"
+  },
+  {
+    "level": 99,
+    "location": "古拉",
+    "area": "托里格镇",
+    "transPoint": "库莱姆农场",
+    "core": "史诗",
+    "wafer": "无球陨石晶片,螺旋晶片",
+    "jewelrys": [
+      "钛辉无球晶片"
+    ],
+    "subCores": [
+      "忍耐5",
+      "伤害治疗5"
+    ],
+    "id": 74,
+    "name": "猛进的角甲兽"
+  },
+  {
+    "level": 99,
+    "location": "英维迪亚",
+    "area": "卡拉姆遗迹",
+    "transPoint": "拉卡姆广场",
+    "core": "史诗",
+    "wafer": "钛辉无球陨石晶片",
+    "condition": "前置任务 再会-危害帝国的组织-临别赠礼",
+    "jewelrys": [
+      "纳米金属护臂"
+    ],
+    "subCores": [
+      "牵绊MAX攻击5",
+      "仇恨上升5"
+    ],
+    "id": 75,
+    "name": "狩猎的彼尔姆"
+  },
+  {
+    "level": 99,
+    "location": "斯佩比亚",
+    "area": "废弃工厂",
+    "transPoint": "人造异刃调整室",
+    "condition": "通关奖牌",
+    "core": "史诗",
+    "wafer": "伤害无效护盾",
+    "jewelrys": [
+      "佩剑附件"
+    ],
+    "subCores": [
+      "忍耐5",
+      "以太防御提升5",
+      "格挡率提升5"
+    ],
+    "id": 76,
+    "name": "零号"
+  },
+  {
+    "level": 99,
+    "location": "斯佩比亚",
+    "area": "废弃工厂",
+    "transPoint": "监视塔",
+    "condition": "通关奖牌",
+    "core": "史诗",
+    "wafer": "钛辉无球陨石晶片",
+    "jewelrys": [
+      "自动平衡器",
+      "英雄护腕"
+    ],
+    "subCores": [
+      "物理防御提升5",
+      "必杀技Lv4强化5"
+    ],
+    "id": 77,
+    "name": "一骑当先的萨克森"
+  },
+  {
+    "level": 100,
+    "location": "莫尔斯断崖",
+    "area": "下层",
+    "transPoint": "灵场神树院",
+    "core": "史诗",
+    "jewelrys": [
+      "银河魔方",
+      "西格玛启动器"
+    ],
+    "subCores": [
+      "牵绊MAX障壁5",
+      "融合连击强化5",
+      "仇恨值上升5"
+    ],
+    "id": 78,
+    "name": "樱花一刀流的丹"
+  },
+  {
+    "level": 104,
+    "location": "古拉",
+    "area": "上层右半身",
+    "transPoint": "盗贼老巢",
+    "core": "史诗",
+    "jewelrys": [
+      "重生甁",
+      "量子围巾"
+    ],
+    "subCores": [
+      "物理防御提升5",
+      "格挡率提升5",
+      "反噬防御5"
+    ],
+    "id": 79,
+    "name": "恶臭兽本哈"
+  },
+  {
+    "level": 109,
+    "location": "檀佩兰提亚",
+    "area": "中央平原",
+    "transPoint": "圣杯之铁锤",
+    "core": "史诗",
+    "wafer": "耀星晶片",
+    "jewelrys": [
+      "白金带"
+    ],
+    "subCores": [
+      "倒地抗性5",
+      "机械猎人5"
+    ],
+    "id": 80,
+    "name": "恶魔王本特"
+  },
+  {
+    "level": 110,
+    "location": "洛修利亚",
+    "area": "下层",
+    "transPoint": "玄武大雪原附近",
+    "condition": "云雾",
+    "core": "史诗",
+    "wafer": "月物质晶片",
+    "jewelrys": [
+      "暴君戒指"
+    ],
+    "subCores": [
+      "以太防御提升5",
+      "反弹无效",
+      "异刃连击强化5"
+    ],
+    "id": 81,
+    "name": "云海大王科罗萨尔"
+  },
+  {
+    "level": 114,
+    "location": "世界树",
+    "area": "上层",
+    "transPoint": "第四层太阳天",
+    "condition": "二周目",
+    "core": "史诗",
+    "wafer": "阳光晶片",
+    "jewelrys": [
+      "欧米茄驱动器",
+      "自动平衡器"
+    ],
+    "subCores": [
+      "支援高手5",
+      "必杀技Lv1强化5"
+    ],
+    "id": 82,
+    "name": "第七世代神秘者"
+  },
+  {
+    "level": 117,
+    "location": "莫尔斯断崖",
+    "area": "下层",
+    "transPoint": "戈尔里库斯神托遗迹",
+    "condition": "终章",
+    "id": 83,
+    "name": "海蛇装置"
+  },
+  {
+    "level": 120,
+    "location": "斯佩比亚",
+    "area": "废弃工厂",
+    "transPoint": "上层管道",
+    "condition": "通关奖牌",
+    "core": "史诗",
+    "wafer": "前子晶片",
+    "jewelrys": [
+      "大师附件",
+      "重生甁"
+    ],
+    "subCores": [
+      "切换缩短5"
+    ],
+    "id": 84,
+    "name": "逃亡战士黑暗罗德"
+  },
+  {
+    "level": 130,
+    "location": "檀佩兰提亚",
+    "area": "中央平原",
+    "transPoint": "亵渎之地",
+    "core": "史诗",
+    "wafer": "快子晶片",
+    "jewelrys": [
+      "世界树水滴",
+      "钻石",
+      "银河魔方"
+    ],
+    "id": 85,
+    "name": "暴虐巨神兽库洛戴伊尔"
+  }
+]

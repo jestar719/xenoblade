@@ -65,6 +65,11 @@ public class BladeCompilerTest {
         mBladeCompiler.compileGoods(mFile, name);
     }
 
+    @Test
+    public void compileMonsters() throws Exception {
+        String name = "monster";
+        mBladeCompiler.compileMonster(mFile, name);
+    }
 
     @Test
     public void compile() throws FileNotFoundException {
